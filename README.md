@@ -17,8 +17,14 @@ Here are the problems solved under the Binary Search category:
 **Problem:** A peak element is an element that is strictly greater than its neighbors. Given an integer array `nums`, where `nums[i] != nums[i+1]` for all valid `i`, find a peak element and return its index. You may imagine that `nums[-1] = nums[n] = -∞`.
 
 **Example:**
-Input: nums = [1,2,3,1]
-Output: 2 (index of 3, which is a peak because 3 > 2 and 3 > 1)
+Input:  nums = [1, 2, 1, 3, 5, 6, 4]  
+Output: 1 or 5  
+Explanation:
+- At index 1: Element is 2, and 2 > 1 (left) and 2 > 1 (right) → valid peak.
+- At index 5: Element is 6, and 6 > 5 (left) and 6 > 4 (right) → also a valid peak.
+
+The algorithm can return either index as both are valid peaks.
+
 
 Input: nums = [1,2,1,3,5,6,4]
 Output: 1 (index of 2, because 2 > 1 (left) and 2 > 1 (right))
