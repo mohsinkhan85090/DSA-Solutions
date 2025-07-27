@@ -1,14 +1,17 @@
-My Data Structures & Algorithms Solutions
-This repository is a collection of Data Structures and Algorithms problems solved in Java. It serves as a personal learning journal and a showcase of my problem-solving skills.
+📚 My Data Structures & Algorithms Solutions – A Journey Through DSA in Java
+This repository is a personal collection of Data Structures and Algorithms problems solved primarily in Java. It serves as my learning journal, showcasing problem-solving approaches and implementations for common DSA patterns.
 
-Table of Contents
-Binary Search
+Topics Covered
+Binary Search – Efficient searching in sorted data and on monotonic answer spaces.
 
+Next Topic (To be added) – Your next DSA adventure!
 
-Binary Search
-Problems solved using Binary Search.
+... (Add more categories as you master them)
 
-1. Find Peak Element (LeetCode 162) - Detailed Explanation
+Binary Search Problems
+Here are the problems solved under the Binary Search category:
+
+1. Find Peak Element (LeetCode 162)
 Problem: A peak element is an element that is strictly greater than its neighbors. Given an integer array nums, where nums[i] != nums[i+1] for all valid i, find a peak element and return its index. You may imagine that nums[-1] = nums[n] = -∞.
 
 Example:
@@ -31,10 +34,4 @@ If nums[mid] < nums[mid + 1]: We are on an ascending slope. A peak must exist to
 
 The search continues until left equals right, at which point left (or right) will be the index of a peak.
 
-
-
-Contributing
-Feel free to fork this repository, make improvements, or add new solutions. Pull requests are welcome!
-
-License
-(Optional: You can add a license here, e.g., MIT License)
+Solution File: FindPeakElement.java
