@@ -26,10 +26,6 @@ Explanation:
 The algorithm can return either index as both are valid peaks.
 
 
-Input: nums = [1,2,1,3,5,6,4]
-Output: 1 (index of 2, because 2 > 1 (left) and 2 > 1 (right))
-or 5 (index of 6, because 6 > 5 and 6 > 4). The algorithm can return either.
-
 **Approach:** This problem is solved using a modified binary search approach. Instead of searching for a specific value, we leverage the monotonic property of the array (considering the implied -∞ boundaries) to efficiently find a peak.
 
 The key idea is:
