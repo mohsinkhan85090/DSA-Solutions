@@ -6,7 +6,6 @@ It serves as my learning journal, showcasing clean code, optimized logic, and ke
 ---
 
 ## 🔹 Topics Covered
-
 **Binary Search** – Efficient searching in sorted data or over monotonic answer spaces.
 
 ---
@@ -95,14 +94,12 @@ Binary search:
 
 ---
 ## 📌 Notes
-
-More problems coming soon: Sliding Window, Recursion, Graphs, etc.
-Solutions include: Description + Example Inputs/Outputs + Approach + Java Code
+-More problems coming soon: Sliding Window, Recursion, Graphs, etc.
+-Solutions include: Description + Example Inputs/Outputs + Approach + Java Code
 
 ---
 
 ## 🛠 Tech Stack
-
 `Java` | `DSA Patterns` | `LeetCode Problems`
 
 [![Repo](https://img.shields.io/badge/DSA%20Solutions-Java%20%7C%20LeetCode-blueviolet?style=flat-square&logo=java)](https://github.com/mohsinkhan85090/DSA-Java-Solutions)
