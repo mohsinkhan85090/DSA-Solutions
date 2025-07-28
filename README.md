@@ -67,74 +67,33 @@ Two binary searches:
 
 ---
 
-### 4. Search Insert Position
+### 4. Search Insert Position (LeetCode 35)
 
-**Problem Link**: [LeetCode 35](https://leetcode.com/problems/search-insert-position/)  
-**Difficulty**: Easy  
-**Topic**: Binary Search  
+**Problem:**  
+Given a sorted array and a target, return the index if found, or the position it should be inserted to keep the order.
 
----
+**Example:**  
+Input: `nums = [1,3,5,6]`, target = `5` → Output: `2`  
+Input: `nums = [1,3,5,6]`, target = `2` → Output: `1`  
+Input: `nums = [1,3,5,6]`, target = `7` → Output: `4`
 
-## 📄 Problem Statement
+**Approach:**  
+Binary search:  
+- If `nums[mid] == target`, return `mid`.  
+- If target is less, move `right = mid - 1`.  
+- If target is greater, move `left = mid + 1`.  
+- Final `left` is the insert position.
 
-Given a **sorted array** of **distinct integers** and a **target value**, return the index **if the target is found**.  
-If not, return the index **where it would be if inserted in order**.
+🔗 **[Solution File → SearchInsertPosition.java](./BinarySearch/SearchInsertPosition.java)**
 
-You must write an algorithm with **O(log n)** runtime complexity.
-
----
-
-## ✅ Examples
-
-### Example 1:
-Input: nums = [1, 3, 5, 6], target = 5
-Output: 2
-
-yaml
-Copy
-Edit
-➡️ 5 is already present at index `2`, so the output is `2`.
-
----
-
-### Example 2:
-Input: nums = [1, 3, 5, 6], target = 2
-Output: 1
-
-yaml
-Copy
-Edit
-➡️ 2 is not in the array. It lies between `1` and `3`, so it should be inserted at index `1`.
-
----
-
-### Example 3:
-Input: nums = [1, 3, 5, 6], target = 7
-Output: 4
-
-yaml
-Copy
-Edit
-➡️ 7 is greater than all elements, so it should be inserted at the end (index `4`).
-
----
-
-## 💡 Approach
-
-Since the array is **sorted**, the most optimal approach is to use **Binary Search**.
-
-### 🔸 Binary Search Logic:
-- If `nums[mid] == target`, return `mid`.
-- If `target < nums[mid]`, search in the left half.
-- If `target > nums[mid]`, search in the right half.
-- If the loop ends, `left` will point to the correct insertion position.
-
----
 
 ## ⏱️ Time & Space Complexity
 
 - **Time Complexity**: O(log n)
 - **Space Complexity**: O(1)
+
+
+---
 ## 📌 Notes
 
 - More problems coming soon: Sliding Window, Recursion, Graphs, etc.
