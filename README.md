@@ -6,8 +6,7 @@ It serves as my learning journal, showcasing clean code, optimized logic, and ke
 ---
 
 ## 🔹 Topics Covered
-
-- **Binary Search** – Efficient searching in sorted data or over monotonic answer spaces.
+**Binary Search** – Efficient searching in sorted data or over monotonic answer spaces.
 
 ---
 
@@ -67,15 +66,40 @@ Two binary searches:
 
 ---
 
-## 📌 Notes
+### 4. Search Insert Position (LeetCode 35)
 
-- More problems coming soon: Sliding Window, Recursion, Graphs, etc.
-- Solutions include: Description + Example Inputs/Outputs + Approach + Java Code
+**Problem:**  
+Given a sorted array and a target, return the index if found, or the position it should be inserted to keep the order.
+
+**Example:**  
+Input: `nums = [1,3,5,6]`, target = `5` → Output: `2`  
+Input: `nums = [1,3,5,6]`, target = `2` → Output: `1`  
+Input: `nums = [1,3,5,6]`, target = `7` → Output: `4`
+
+**Approach:**  
+Binary search:  
+- If `nums[mid] == target`, return `mid`.  
+- If target is less, move `right = mid - 1`.  
+- If target is greater, move `left = mid + 1`.  
+- Final `left` is the insert position.
+
+🔗 **[Solution File → SearchInsertPosition.java](./BinarySearch/SearchInsertPosition.java)**
+
+
+## ⏱️ Time & Space Complexity
+
+- **Time Complexity**: O(log n)
+- **Space Complexity**: O(1)
+
+
+---
+## 📌 Notes
+-More problems coming soon: Sliding Window, Recursion, Graphs, etc.
+-Solutions include: Description + Example Inputs/Outputs + Approach + Java Code
 
 ---
 
 ## 🛠 Tech Stack
-
 `Java` | `DSA Patterns` | `LeetCode Problems`
 
 [![Repo](https://img.shields.io/badge/DSA%20Solutions-Java%20%7C%20LeetCode-blueviolet?style=flat-square&logo=java)](https://github.com/mohsinkhan85090/DSA-Java-Solutions)
