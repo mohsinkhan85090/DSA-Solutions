@@ -84,6 +84,7 @@ Binary search:
 - Final `left` is the insert position.
 
 🔗 **[Solution File → SearchInsertPosition.java](./BinarySearch/SearchInsertPosition.java)**
+---
 
 ### 5. Search in Rotated Sorted Array (LeetCode 33)
 
