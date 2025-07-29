@@ -91,7 +91,19 @@ Binary search:
 - **Time Complexity**: O(log n)
 - **Space Complexity**: O(1)
 
+### 5. Search in Rotated Sorted Array (LeetCode 33)
 
+**Problem:** Given a sorted array `nums` that has been rotated at an unknown pivot, return the index of a `target` value if it exists, or `-1` otherwise. The values in `nums` are distinct.
+
+**Example:**
+* **Input:** `nums = [4,5,6,7,0,1,2]`, `target = 0`
+* **Output:** `4`
+
+**Approach:** This problem uses a modified binary search. The key is to identify which half of the array (left or right of `mid`) is sorted. Once the sorted half is identified, we check if the `target` falls within that sorted range. If it does, we search in that half; otherwise, we search in the other (unsorted) half. This allows us to reduce the search space by half in each step, maintaining `O(log n)` complexity.
+
+**Solution File:** [`SearchInRotatedSortedArray.java`](./Binary%20Search/SearchInRotatedSortedArray/SearchInRotatedSortedArray.java)
+
+---
 ---
 ## 📌 Notes
 -More problems coming soon: Sliding Window, Recursion, Graphs, etc.
