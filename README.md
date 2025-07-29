@@ -85,12 +85,6 @@ Binary search:
 
 🔗 **[Solution File → SearchInsertPosition.java](./BinarySearch/SearchInsertPosition.java)**
 
-
-## ⏱️ Time & Space Complexity
-
-- **Time Complexity**: O(log n)
-- **Space Complexity**: O(1)
-
 ### 5. Search in Rotated Sorted Array (LeetCode 33)
 
 **Problem:** Given a sorted array `nums` that has been rotated at an unknown pivot, return the index of a `target` value if it exists, or `-1` otherwise. The values in `nums` are distinct.
@@ -103,7 +97,6 @@ Binary search:
 
 **Solution File:** [`SearchInRotatedSortedArray.java`](./Binary%20Search/SearchInRotatedSortedArray/SearchInRotatedSortedArray.java)
 
----
 ---
 ## 📌 Notes
 -More problems coming soon: Sliding Window, Recursion, Graphs, etc.
