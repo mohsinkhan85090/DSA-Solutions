@@ -2,11 +2,11 @@
 
 This repository is a personal collection of **Data Structures and Algorithms** problems solved primarily in **Java**.  
 It serves as my learning journal, showcasing clean code, optimized logic, and key DSA patterns.
+
 ---
 
 
 ## 🔍 Binary Search Problems
-
 ### 1. Find Peak Element (LeetCode 162)
 
 **Problem:**  
