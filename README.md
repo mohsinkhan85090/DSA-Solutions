@@ -2,13 +2,8 @@
 
 This repository is a personal collection of **Data Structures and Algorithms** problems solved primarily in **Java**.  
 It serves as my learning journal, showcasing clean code, optimized logic, and key DSA patterns.
-
 ---
 
-## 🔹 Topics Covered
-**Binary Search** – Efficient searching in sorted data or over monotonic answer spaces.
-
----
 
 ## 🔍 Binary Search Problems
 
