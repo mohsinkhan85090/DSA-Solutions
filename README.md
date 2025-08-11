@@ -1,115 +1,69 @@
-# 📚 My Data Structures & Algorithms Solutions – A Journey Through DSA in Java
+# 📚 DSA-Solutions – My Data Structures & Algorithms Journey in Java
 
-
-This repository is a personal collection of **Data Structures and Algorithms** problems solved primarily in **Java**.  
-It serves as my learning journal, showcasing clean code, optimized logic, and key DSA patterns.
-
----
-
-
-## 🔍 Binary Search Problems
-
-### 1. Find Peak Element (LeetCode 162)
-
-**Problem:**  
-A peak element is an element that is strictly greater than its neighbors.  
-Find any one peak element and return its index.
-
-**Example:**  
-Input: `[1,2,3,1]` → Output: `2`  
-Input: `[1,2,1,3,5,6,4]` → Output: `1` or `5`
-
-**Approach:**  
-Use a binary search on index space.  
-- If `nums[mid] > nums[mid+1]`, search left.  
-- Else, search right.
-
-🔗 **[Solution File → FindPeakElement.java](./BinarySearch/FindPeakElement.java)**
+This repository is a personal collection of **Data Structures and Algorithms** problems solved in **Java**.  
+It is organized **folder-wise** according to topics, each containing clean and optimized solutions following common DSA patterns.
 
 ---
 
-### 2. Search in Rotated Sorted Array (LeetCode 33)
+## 📂 Folder Structure & Problem Index
 
-**Problem:**  
-Search for a target in a rotated sorted array without duplicates.
+### **Array & String**
+- **Two Sum (LeetCode 1)**  
+  Finds two numbers in an array that sum to a given target using a hash map for O(n) complexity.  
+  *File:* `Array&String/Twosum.java`
 
-**Example:**  
-Input: `nums = [4,5,6,7,0,1,2]`, target = `0` → Output: `4`
-
-**Approach:**  
-Modified binary search:  
-- Check which side is sorted.  
-- Narrow down based on target position.
-
-🔗 **[Solution File → SearchInRotatedSortedArray.java](./BinarySearch/SearchInRotatedSortedArray.java)**
+- **Concatenation of Array**  
+  Concatenates an array to itself and returns the new array.  
+  *File:* `Array&String/Concatenation of Array.java`
 
 ---
 
-### 3. Find First and Last Position of Element in Sorted Array (LeetCode 34)
+### **Binary Search**
+- **Find Peak Element (LeetCode 162)**  
+  Finds an element greater than its neighbors using binary search on index space.  
+  *File:* `Binary Search/FindPeakElement.java`
 
-**Problem:**  
-Find the starting and ending position of a given target value.  
-If not found, return `[-1, -1]`.
+- **Search in Rotated Sorted Array (LeetCode 33)**  
+  Modified binary search to handle rotated sorted arrays.  
+  *File:* `Binary Search/SearchInRotatedSortedArray.java`
 
-**Example:**  
-Input: `nums = [5,7,7,8,8,10]`, target = `8` → Output: `[3, 4]`
+- **Find First and Last Position of Element in Sorted Array (LeetCode 34)**  
+  Uses two binary searches to find the first and last occurrence of a target.  
+  *File:* `Binary Search/FirstAndLastPosition.java`
 
-**Approach:**  
-Two binary searches:  
-- One for first occurrence.  
-- One for last occurrence.
-
-🔗 **[Solution File → FirstAndLastPosition.java](./BinarySearch/FirstAndLastPosition.java)**
-
----
-
-### 4. Search Insert Position (LeetCode 35)
-
-**Problem:**  
-Given a sorted array and a target, return the index if found, or the position it should be inserted to keep the order.
-
-**Example:**  
-Input: `nums = [1,3,5,6]`, target = `5` → Output: `2`  
-Input: `nums = [1,3,5,6]`, target = `2` → Output: `1`  
-Input: `nums = [1,3,5,6]`, target = `7` → Output: `4`
-
-**Approach:**  
-Binary search:  
-- If `nums[mid] == target`, return `mid`.  
-- If target is less, move `right = mid - 1`.  
-- If target is greater, move `left = mid + 1`.  
-- Final `left` is the insert position.
-
-🔗 **[Solution File → SearchInsertPosition.java](./BinarySearch/SearchInsertPosition.java)**
-
+- **Search Insert Position (LeetCode 35)**  
+  Finds the index of a target or the position to insert it to maintain sorted order.  
+  *File:* `Binary Search/SearchInsertPosition.java`
 
 ---
 
-### 5. Search in Rotated Sorted Array (LeetCode 33)
-
-**Problem:** Given a sorted array `nums` that has been rotated at an unknown pivot, return the index of a `target` value if it exists, or `-1` otherwise. The values in `nums` are distinct.
-
-**Example:**
-* **Input:** `nums = [4,5,6,7,0,1,2]`, `target = 0`
-* **Output:** `4`
-
-**Approach:** This problem uses a modified binary search. The key is to identify which half of the array (left or right of `mid`) is sorted. Once the sorted half is identified, we check if the `target` falls within that sorted range. If it does, we search in that half; otherwise, we search in the other (unsorted) half. This allows us to reduce the search space by half in each step, maintaining `O(log n)` complexity.
-
-**Solution File:** [`SearchInRotatedSortedArray.java`](./Binary%20Search/SearchInRotatedSortedArray/SearchInRotatedSortedArray.java)
-
----
-## 📌 Notes
--More problems coming soon: Sliding Window, Recursion, Graphs, etc.
--Solutions include: Description + Example Inputs/Outputs + Approach + Java Code
+### **Sliding Window**
+- **Length of Longest Substring Without Repeating Characters**  
+  Uses a sliding window and hash set to find the maximum length substring with all unique characters.  
+  *File:* `Sliding Window/lenghtoflongestsubstring.java`
 
 ---
 
 ## 🛠 Tech Stack
-`Java` | `DSA Patterns` | `LeetCode Problems`
-
-[![Repo](https://img.shields.io/badge/DSA%20Solutions-Java%20%7C%20LeetCode-blueviolet?style=flat-square&logo=java)](https://github.com/mohsinkhan85090/DSA-Java-Solutions)
+- **Language:** Java  
+- **Patterns:** Sliding Window, Binary Search, Hashing, Two Pointers, etc.  
+- **Platform:** LeetCode, Custom DSA Practice  
 
 ---
 
-## 📂 Folder Structure
+## 📌 Notes
+- Each solution contains:
+  - Problem statement summary
+  - Approach description
+  - Java implementation
+- More problems coming soon: Recursion, Graphs, Dynamic Programming, etc.
 
+---
+
+## 🤝 Contribution
+This repository is primarily for personal learning. If you have suggestions for cleaner solutions or optimizations, feel free to fork and create a pull request.
+
+---
+
+**Author:** Mohsin Khan  
+**GitHub:** [mohsinkhan85090](https://github.com/mohsinkhan85090)
