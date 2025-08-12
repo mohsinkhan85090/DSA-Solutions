@@ -7,13 +7,15 @@ It is organized **folder-wise** according to topics, each containing clean and o
 
 ## 📂 Folder Structure & Problem Index
 
+
+### **Array & String**
+
 #### 1. Two Sum (LeetCode 1)
 **Problem:**  
 Finds two numbers in an array that sum to a given target using a hash map for **O(n)** complexity.  
 
 **File:** `Array&String/Twosum.java`
 
----
 
 #### 2. Concatenation of Array (LeetCode 1929)
 **Problem:**  
@@ -21,7 +23,6 @@ Concatenates an array to itself and returns the new array.
 
 **File:** `Array&String/Concatenation of Array.java`
 
----
 
 #### 3. Contains Duplicate (LeetCode 217)
 **Problem:**  
@@ -29,7 +30,6 @@ Checks if any value appears more than once in the array using a `HashSet` for O(
 
 **File:** `Array&String/ContainsDuplicate.java`
 
----
 
 #### 4. Remove Element (LeetCode 27)
 **Problem:**  
@@ -37,7 +37,6 @@ Removes all occurrences of a given value in-place and returns the new length of 
 Uses a two-pointer approach for in-place modification without extra space.  
 
 **File:** `Array&String/Removeelement.java`
-
 ---
 
 ### **Binary Search**
