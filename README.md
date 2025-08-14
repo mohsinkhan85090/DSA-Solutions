@@ -16,7 +16,7 @@ It is organized **folder-wise** according to topics, each containing clean and o
 **Approach:** Uses a **HashMap** for **O(n)** time complexity.  
 **File:** `Array&String/Twosum.java`  
 **Example:**
-```java
+java
 Input: nums = [2,7,11,15], target = 9
 Output: [0,1] // nums[0] + nums[1] = 2 + 7 = 9
 
@@ -24,25 +24,39 @@ Output: [0,1] // nums[0] + nums[1] = 2 + 7 = 9
 **Problem:** Concatenates an array to itself and returns the new array.  
 **File:** `Array&String/Concatenation of Array.java`  
 **Example:**
-```java
+java
 Input: nums = [1,2,3]
 Output: [1,2,3,1,2,3]
 
 
-#### 3. Contains Duplicate (LeetCode 217)
+## 1. Contains Duplicate (LeetCode 217)
+
 **Problem:**  
-Checks if any value appears more than once in the array using a `HashSet` for O(n) time complexity.  
+Checks if any value appears more than once in the array.
 
-**File:** `Array&String/ContainsDuplicate.java`
+**Approach:**  
+Uses a **HashSet** for **O(n)** time complexity.  
+
+**File:** `Array&String/ContainsDuplicate.java`  
+
+**Example:**
+java
+Input: nums = [1,2,3,1]
+Output: true
 
 
-#### 4. Remove Element (LeetCode 27)
-**Problem:**  
-Removes all occurrences of a given value in-place and returns the new length of the array.  
-Uses a two-pointer approach for in-place modification without extra space.  
+# Remove Element (LeetCode 27)
+
+**Problem:** Remove all occurrences of a given value in-place and return the new length.
+
+**Approach:** Two-pointer method for in-place modification without extra space.
 
 **File:** `Array&String/Removeelement.java`
----
+
+**Example:**
+java
+Input: nums = [3,2,2,3], val = 3
+Output: 2, nums = [2,2,_,_]
 
 ### **Binary Search**
 - **Find Peak Element (LeetCode 162)**  
