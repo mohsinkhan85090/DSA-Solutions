@@ -11,7 +11,7 @@ It is organized **folder-wise** according to topics, each containing clean and o
 ### **Array & String**
 
 
-### 1. Two Sum (LeetCode 1)
+## 1. Two Sum (LeetCode 1)
 **Problem:** Find two numbers in an array that sum to a given target.  
 **Approach:** Uses a **HashMap** for **O(n)** time complexity.  
 **File:** `Array&String/Twosum.java`  
@@ -20,7 +20,8 @@ java
 Input: nums = [2,7,11,15], target = 9
 Output: [0,1] // nums[0] + nums[1] = 2 + 7 = 9
 
-### 2. Concatenation of Array (LeetCode 1929)
+
+## 2. Concatenation of Array (LeetCode 1929)
 **Problem:** Concatenates an array to itself and returns the new array.  
 **File:** `Array&String/Concatenation of Array.java`  
 **Example:**
@@ -29,7 +30,7 @@ Input: nums = [1,2,3]
 Output: [1,2,3,1,2,3]
 
 
-## 1. Contains Duplicate (LeetCode 217)
+## 3. Contains Duplicate (LeetCode 217)
 
 **Problem:**  
 Checks if any value appears more than once in the array.
@@ -45,9 +46,10 @@ Input: nums = [1,2,3,1]
 Output: true
 
 
-# Remove Element (LeetCode 27)
+## 4. Remove Element (LeetCode 27)
 
-**Problem:** Remove all occurrences of a given value in-place and return the new length.
+**Problem:**
+Remove all occurrences of a given value in-place and return the new length.
 
 **Approach:** Two-pointer method for in-place modification without extra space.
 
@@ -58,6 +60,7 @@ java
 Input: nums = [3,2,2,3], val = 3
 Output: 2, nums = [2,2,_,_]
 
+
 ## 5. Majority Element (LeetCode 169)
 **Problem:** Finds the element that appears more than n/2 times.  
 **File:** `Array&String/MajorityElement.java`  
@@ -67,13 +70,14 @@ Input: nums = [3,2,3]
 Output: 3
 
 
-### 6. Missing Number (LeetCode 268)
+## 6. Missing Number (LeetCode 268)
 **Problem:** Finds the missing number in an array containing `n` distinct numbers in `[0, n]`.  
 **File:** `Array&String/Missingnumber.java`  
 **Example:**
 java
 Input: nums = [3,0,1]
 Output: 2
+
 
 ## 7. Find Duplicate (LeetCode 287)
 **Problem:** Finds a duplicate number in an array containing `n+1` integers in `[1, n]`.  
@@ -92,7 +96,7 @@ Input: nums = [1,2,3,1]
 Output: 2 // index of peak element 3
 
 
-###9. Merge Sorted Array (LeetCode 88) 
+## 9. Merge Sorted Array (LeetCode 88) 
 **Problem:** Merges two sorted arrays in-place.
 **File:** `Array&String/mergesortedarray.py `
 **Example:**
