@@ -10,18 +10,23 @@ It is organized **folder-wise** according to topics, each containing clean and o
 
 ### **Array & String**
 
-#### 1. Two Sum (LeetCode 1)
-**Problem:**  
-Finds two numbers in an array that sum to a given target using a hash map for **O(n)** complexity.  
 
-**File:** `Array&String/Twosum.java`
+### 1. Two Sum (LeetCode 1)
+**Problem:** Find two numbers in an array that sum to a given target.  
+**Approach:** Uses a **HashMap** for **O(n)** time complexity.  
+**File:** `Array&String/Twosum.java`  
+**Example:**
+```java
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1] // nums[0] + nums[1] = 2 + 7 = 9
 
-
-#### 2. Concatenation of Array (LeetCode 1929)
-**Problem:**  
-Concatenates an array to itself and returns the new array.  
-
-**File:** `Array&String/Concatenation of Array.java`
+### 2. Concatenation of Array (LeetCode 1929)
+**Problem:** Concatenates an array to itself and returns the new array.  
+**File:** `Array&String/Concatenation of Array.java`  
+**Example:**
+```java
+Input: nums = [1,2,3]
+Output: [1,2,3,1,2,3]
 
 
 #### 3. Contains Duplicate (LeetCode 217)
