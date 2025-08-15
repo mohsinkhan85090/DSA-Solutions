@@ -1,4 +1,5 @@
-# 📚 DSA-Solutions – My Data Structures & Algorithms Journey in Java
+# 📈 DSA– My Data Structures & Algorithms Journey in Java
+
 
 This repository is a personal collection of **Data Structures and Algorithms** problems solved in **Java**.  
 It is organized **folder-wise** according to topics, each containing clean and optimized solutions following common DSA patterns.
