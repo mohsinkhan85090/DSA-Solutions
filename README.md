@@ -108,7 +108,18 @@ Example:
 Input: nums = [1,3,5,6], target = 5
 Output: 2
 
+13.Rotate Array (LeetCode 189)
+Problem: Rotate an array to the right by k steps.
+Approach: Use modulo indexing: B[i] = A[(i + k) % n]. This creates the rotated array efficiently.
+File: Array&String/RotateArray.java
+
+Example:
+Input: nums = [1,2,3,4,5,6,7], k = 3
+Output: [5,6,7,1,2,3,4]
+
 ```
+---
+
 ### **Binary Search**
 - **Find Peak Element (LeetCode 162)**  
   Finds an element greater than its neighbors using binary search on index space.  
