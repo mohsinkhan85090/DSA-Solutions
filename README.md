@@ -8,10 +8,10 @@ It is organized **folder-wise** according to topics, each containing clean and o
 ## 📂 Folder Structure & Problem Index
 ## Array&String 
 ```java
-## 1. Two Sum (LeetCode 1)
-**Problem:** Find two numbers in an array that sum to a given target.  
-**Approach:** Uses a HashMap for O(n) time complexity.  
-**File:** `Array&String/Twosum.java`  
+1. Two Sum (LeetCode 1)
+Problem: Find two numbers in an array that sum to a given target.  
+Approach: Uses a HashMap for O(n) time complexity.  
+File: `Array&String/Twosum.java`  
 
 Example:
 Input: nums = [2,7,11,15], target = 9
