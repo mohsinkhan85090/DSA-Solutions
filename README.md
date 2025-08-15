@@ -5,7 +5,6 @@ It is organized **folder-wise** according to topics, each containing clean and o
 
 ---
 
-## 📂 Folder Structure & Problem Index
 ## Array&String 
 ```java
 1. Two Sum (LeetCode 1)
