@@ -118,14 +118,15 @@ Input: nums = [1,2,3,4,5,6,7], k = 3
 Output: [5,6,7,1,2,3,4]
 
 
-14. Maximum 69 Number (LeetCode 1323)
-Problem: You are given a positive integer that only contains digits 6 and 9. You may change at most one digit 6 → 9 to get the maximum possible number. Return the maximum number you can get.
-Approach: Convert the number to a string (or digit array). Replace the first 6 with 9 and return the new number. This guarantees the maximum number because the leftmost digit has the highest place value.
+14.Maximum 69 Number (LeetCode 1323)
+Problem: Change at most one 6 to 9 to maximize the number.
+Approach: Replace the first 6 with 9.
 File: Array&String/Maximum69Number.java
 
 Example:
 Input: 9669
 Output: 9969
+
 ```
 ---
 
