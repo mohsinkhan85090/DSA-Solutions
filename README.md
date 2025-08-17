@@ -118,7 +118,7 @@ Input: nums = [1,2,3,4,5,6,7], k = 3
 Output: [5,6,7,1,2,3,4]
 
 
-14.Maximum 69 Number (LeetCode 1323)
+14. Maximum 69 Number (LeetCode 1323)
 Problem: Change at most one 6 to 9 to maximize the number.
 Approach: Replace the first 6 with 9.
 File: Array&String/Maximum69Number.java
@@ -127,6 +127,15 @@ Example:
 Input: 9669
 Output: 9969
 
+
+15. Remove Duplicates from Sorted Array (LeetCode 26)
+Problem: Remove duplicates in-place from a sorted array so that each unique element appears only once. Return the number of unique elements.
+Approach: Two-pointer technique to overwrite duplicates while maintaining order.
+File: Array&String/Removeduplicatefromsortedarray.java
+
+Example:
+Input: nums = [1,1,2]
+Output: 2, nums = [1,2,_]
 ```
 ---
 
