@@ -140,13 +140,7 @@ Output: 2, nums = [1,2,_]
 
 ---
 
-### **Sliding Window**
-```java
-- **Length of Longest Substring Without Repeating Characters**  
-  Uses a sliding window and hash set to find the maximum length substring with all unique characters.  
-  *File:* `Sliding Window/lenghtoflongestsubstring.java`
-```
----
+
 
 ## 🛠 Tech Stack
 - **Language:** Java  
