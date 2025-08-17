@@ -137,24 +137,6 @@ Example:
 Input: nums = [1,1,2]
 Output: 2, nums = [1,2,_]
 ```
----
-
-### **Binary Search**
-- **Find Peak Element (LeetCode 162)**  
-  Finds an element greater than its neighbors using binary search on index space.  
-  *File:* `Binary Search/FindPeakElement.java`
-
-- **Search in Rotated Sorted Array (LeetCode 33)**  
-  Modified binary search to handle rotated sorted arrays.  
-  *File:* `Binary Search/SearchInRotatedSortedArray.java`
-
-- **Find First and Last Position of Element in Sorted Array (LeetCode 34)**  
-  Uses two binary searches to find the first and last occurrence of a target.  
-  *File:* `Binary Search/FirstAndLastPosition.java`
-
-- **Search Insert Position (LeetCode 35)**  
-  Finds the index of a target or the position to insert it to maintain sorted order.  
-  *File:* `Binary Search/SearchInsertPosition.java`
 
 ---
 
