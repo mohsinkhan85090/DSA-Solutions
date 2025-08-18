@@ -143,7 +143,7 @@ Output: 2, nums = [1,2,_]
 
 
 ## 🛠 Tech Stack
-- **Language:** Java  
+- **Language:** Java & Python
 - **Patterns:** Sliding Window, Binary Search, Hashing, Two Pointers, etc.  
 - **Platform:** LeetCode, Custom DSA Practice  
 
