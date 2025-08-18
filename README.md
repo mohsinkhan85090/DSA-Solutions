@@ -136,6 +136,17 @@ File: Array&String/Removeduplicatefromsortedarray.java
 Example:
 Input: nums = [1,1,2]
 Output: 2, nums = [1,2,_]
+
+16. Palindrome Number (LeetCode 9)  
+Problem: Check if an integer is a palindrome. A palindrome reads the same forward and backward.  
+File: Array&String/PalindromeNumber.java  
+
+Example:  
+Input: x = 121  
+Output: true  
+
+Input: x = -121  
+Output: false  
 ```
 
 ---
