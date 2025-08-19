@@ -146,7 +146,16 @@ Input: x = 121
 Output: true  
 
 Input: x = -121  
-Output: false  
+Output: false
+
+16.Valid Palindrome (LeetCode 125)
+Problem: Check if a string reads the same forward and backward, ignoring non-alphanumeric characters and case.
+Approach: Use two pointers to skip non-alphanumeric characters and compare letters/digits.
+File: Array&String/validpalindrome.java
+
+Example:
+Input: s = "A man, a plan, a canal: Panama"
+Output: true
 ```
 
 ---
