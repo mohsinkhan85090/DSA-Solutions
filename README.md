@@ -156,6 +156,16 @@ File: Array&String/validpalindrome.java
 Example:
 Input: s = "A man, a plan, a canal: Panama"
 Output: true
+
+17. Best Time to Buy and Sell Stock (LeetCode 121)
+Problem: Given an array of stock prices, find the maximum profit by choosing a single buy and sell day.
+Approach: Track the minimum price so far and calculate the maximum profit in one pass (O(n) time).
+File: Array&String/besttimetobuyandsellstock.java
+
+Example:
+Input: prices = [7,1,5,3,6,4]
+Output: 5
+Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
 ```
 
 ---
