@@ -166,6 +166,19 @@ Example:
 Input: prices = [7,1,5,3,6,4]
 Output: 5
 Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
+
+18. Best Time to Buy and Sell Stock II (LeetCode 122)
+Problem: Maximize profit by buying and selling stocks on multiple days. You can hold at most one share at a time.
+Approach: Sum all positive differences between consecutive days (O(n) time).
+File: Array&String/besttimetobuyandsellstockII.java
+
+Example:
+Input: prices = [7,1,5,3,6,4]
+Output: 7
+Explanation: Buy on day 2, sell on day 3 (profit = 4), then buy on day 4, sell on day 5 (profit = 3). Total = 7.
+
+Input: prices = [1,2,3,4,5]
+Output: 4
 ```
 
 ---
