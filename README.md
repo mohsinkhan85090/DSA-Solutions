@@ -188,6 +188,18 @@ File: Array&String/maximumsubarray.java
 Example:
 Input: nums = [-2,1,-3,4,-1,2,1,-5,4]
 Output: 6 (subarray [4,-1,2,1])
+
+20. Valid Anagram (LeetCode 242)
+Problem: Check if two strings are anagrams (contain the same characters in the same frequency, but possibly in a different order).
+Approach: Sort both strings and compare character by character.
+File: Array&String/validAnagram.java
+
+Example:
+Input: s = "anagram", t = "nagaram"
+Output: true
+
+Input: s = "rat", t = "car"
+Output: false
 ```
 
 ---
