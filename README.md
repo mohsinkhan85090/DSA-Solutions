@@ -6,7 +6,7 @@ It is organized **folder-wise** according to topics, each containing clean and o
 
 ---
 
-## Array&String 
+## Array
 ```java
 1. Two Sum (LeetCode 1)
 Problem: Find two numbers in an array that sum to a given target.  
