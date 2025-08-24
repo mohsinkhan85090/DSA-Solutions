@@ -209,7 +209,7 @@ Output: false
 ## 🛠 Tech Stack
 - **Language:** Java & Python
 - **Patterns:** Sliding Window, Binary Search, Hashing, Two Pointers, etc.  
-- **Platform:** LeetCode, Custom DSA Practice  
+- **Platform:** LeetCode
 
 ---
 
