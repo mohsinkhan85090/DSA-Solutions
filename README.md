@@ -201,7 +201,7 @@ Output: true
 Input: s = "rat", t = "car"
 Output: false
 ```
-STRING
+##String
 ```java
 1. Valid Parentheses (LeetCode 20)
 Problem: Given a string containing (, ), {, }, [ and ], determine if the input string is valid. A string is valid if brackets are closed in the correct order.
