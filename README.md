@@ -215,6 +215,15 @@ Output: true
 
 Input: s = "([)]"
 Output: false
+
+2. Is Subsequence (LeetCode 392)
+Problem: Check if string s is a subsequence of string t.
+Approach: Use two pointers to traverse both strings. Runs in O(n) time.
+File: Array&String/IsSubsequence.java
+
+Example:
+Input: s = "abc", t = "ahbgdc"
+Output: true
 ```
 ---
 
