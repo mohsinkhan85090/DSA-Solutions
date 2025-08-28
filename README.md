@@ -224,6 +224,24 @@ File: Array&String/IsSubsequence.java
 Example:
 Input: s = "abc", t = "ahbgdc"
 Output: true
+
+3. Roman to Integer (LeetCode 13)
+Problem: Convert a Roman numeral string into an integer.
+Approach: Traverse from right to left, map Roman characters to values, and subtract if a smaller value appears before a larger one, else add.
+File: String/RomantoInteger.java
+
+Example:
+Input: "MCMXCIV"
+Output: 1994
+
+4. First Unique Character in a String (LeetCode 387)
+Problem: Find the index of the first non-repeating character in a string.
+Approach: Use a frequency array (26 letters) to count occurrences, then scan the string to find the first index with count = 1.
+File: String/firstuniquecharacterinstring.java
+
+Example:
+Input: "leetcode"
+Output: 0
 ```
 ---
 
