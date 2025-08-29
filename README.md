@@ -242,6 +242,14 @@ File: String/firstuniquecharacterinstring.java
 Example:
 Input: "leetcode"
 Output: 0
+
+5. Find the Difference (LeetCode 389)
+Problem: Given two strings s and t, where t is formed by shuffling s and adding one extra character, return the extra character.
+File: String/FindTheDifference.java
+
+Example:
+Input: s = "abcd", t = "abcde"
+Output: "e"
 ```
 ---
 
