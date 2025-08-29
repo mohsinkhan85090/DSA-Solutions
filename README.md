@@ -222,7 +222,7 @@ Approach: Use two pointers to traverse both strings. Runs in O(n) time.
 File: Array&String/IsSubsequence.java
 
 Example:
-Input: s = "abc", t = "ahbgdc"
+Input: s = "abc", t = "*ahbgdc*"
 Output: true
 
 3. Roman to Integer (LeetCode 13)
