@@ -222,7 +222,7 @@ Approach: Use two pointers to traverse both strings. Runs in O(n) time.
 File: Array&String/IsSubsequence.java
 
 Example:
-Input: s = "abc", t = "*ahbgdc*"
+Input: s = "abc", t = "(ahbgdc)"
 Output: true
 
 3. Roman to Integer (LeetCode 13)
@@ -240,7 +240,7 @@ Approach: Use a frequency array (26 letters) to count occurrences, then scan the
 File: String/firstuniquecharacterinstring.java
 
 Example:
-Input: "leetcode"
+Input: "(leetcode)"
 Output: 0
 
 5. Find the Difference (LeetCode 389)
