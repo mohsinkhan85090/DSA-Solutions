@@ -231,7 +231,7 @@ Approach: Traverse from right to left, map Roman characters to values, and subtr
 File: String/RomantoInteger.java
 
 Example:
-Input: "MCMXCIV"
+Input: "(MCMXCIV)"
 Output: 1994
 
 4. First Unique Character in a String (LeetCode 387)
