@@ -249,7 +249,7 @@ File: String/FindTheDifference.java
 
 Example:
 Input: s = "abcd", t = "abcde"
-Output: ("e")
+Output: *"e"*
 
 6.Longest Substring Without Repeating Characters (LeetCode 3)
 
