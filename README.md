@@ -247,20 +247,18 @@ Output: 0
 Problem: Given two strings s and t, where t is formed by shuffling s and adding one extra character, return the extra character.
 File: String/FindTheDifference.java
 
-Example:
-Input: s = "abcd", t = "abcde"
-Output: *"e"*
 
-6.Longest Substring Without Repeating Characters (LeetCode 3)
 
-Problem: Find the length of the longest substring in a string s without repeating characters.
-Approach: Use sliding window + HashSet/HashMap to track characters. Expand the window if unique, shrink when duplicate appears.
+3. Longest Substring Without Repeating Characters (LeetCode 3)
+
+Problem: Find the length of the longest substring in a string without repeating characters.
+Approach: Sliding Window + HashSet/HashMap to maintain unique characters. Expand window if unique, shrink when duplicate appears.
 Time Complexity: O(n)
 File: String/LongestSubstringWithoutRepeating.java
 
 Example:
-Input: s = "(abcabcbb)"
-Output: 3 (Substring = "abc")
+Input: s = "abcabcbb"
+Output: 3 (substring = "abc")
 ```
 ---
 
