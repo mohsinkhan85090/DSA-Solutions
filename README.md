@@ -257,8 +257,8 @@ Time Complexity: O(n)
 File: String/LongestSubstringWithoutRepeating.java
 
 Example:
-Input: s = "abcabcbb"
-Output: 3 (substring = "abc")
+Input: s = ("abcabcbb")
+Output: 3  (substring = "abc")
 ```
 ---
 
