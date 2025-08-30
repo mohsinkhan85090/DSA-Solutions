@@ -250,6 +250,17 @@ File: String/FindTheDifference.java
 Example:
 Input: s = "abcd", t = "abcde"
 Output: "e"
+
+6.Longest Substring Without Repeating Characters (LeetCode 3)
+
+Problem: Find the length of the longest substring in a string s without repeating characters.
+Approach: Use sliding window + HashSet/HashMap to track characters. Expand the window if unique, shrink when duplicate appears.
+Time Complexity: O(n)
+File: String/LongestSubstringWithoutRepeating.java
+
+Example:
+Input: s = "(abcabcbb)"
+Output: 3 (Substring = "abc")
 ```
 ---
 
