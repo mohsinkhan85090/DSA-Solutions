@@ -248,7 +248,7 @@ Problem: Given two strings s and t, where t is formed by shuffling s and adding 
 File: String/FindTheDifference.java
 
 Example:
-Input: s = "abcd", t = "abcde"
+Input: s = "abcd", t = "(abcde)"
 Output: "e"
 
 6.Longest Substring Without Repeating Characters (LeetCode 3)
