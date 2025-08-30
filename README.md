@@ -249,7 +249,7 @@ File: String/FindTheDifference.java
 
 
 
-3. Longest Substring Without Repeating Characters (LeetCode 3)
+6. Longest Substring Without Repeating Characters (LeetCode 3)
 
 Problem: Find the length of the longest substring in a string without repeating characters.
 Approach: Sliding Window + HashSet/HashMap to maintain unique characters. Expand window if unique, shrink when duplicate appears.
@@ -259,6 +259,12 @@ File: String/LongestSubstringWithoutRepeating.java
 Example:
 Input: s = ("abcabcbb")
 Output: 3  (substring = "abc")
+
+7. Longest Common Prefix – Explanation
+Problem: We want to find the longest common prefix among an array of strings.
+Example:
+Input: ["flower", "flow", "flight"]
+Output: "fl"
 ```
 ---
 
