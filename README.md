@@ -258,7 +258,7 @@ File: String/LongestSubstringWithoutRepeating.java
 
 Example:  
 Input: `"abcabcbb"`  
-Output: `3`  (substring = `"abc"`)
+Output: 3  `substring = "abc"`
 
 7. Longest Common Prefix – Explanation  
 Problem: We want to find the longest common prefix among an array of strings.  
