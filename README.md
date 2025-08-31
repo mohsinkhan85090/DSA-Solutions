@@ -264,8 +264,8 @@ Output: 3  substring = abc
 Problem: We want to find the longest common prefix among an array of strings.  
 
 Example:  
-Input: ["flower", "flow", "flight"]' 
-Output: *fl*
+Input: [flower, flow, flight] 
+Output: fl
 
 8. Reverse String (LeetCode 344)
 Problem: Write a function that reverses a string. The input string is given as an array of characters, and you must do this in-place without returning anything.
