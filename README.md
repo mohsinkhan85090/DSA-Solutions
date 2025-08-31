@@ -266,6 +266,14 @@ Problem: We want to find the longest common prefix among an array of strings.
 Example:  
 Input: `["flower", "flow", "flight"]`  
 Output: `"fl"`
+
+8. Reverse String (LeetCode 344)
+Problem: Write a function that reverses a string. The input string is given as an array of characters, and you must do this in-place without returning anything.
+File: Array&String/reversestring.java
+
+Example:
+Input: s = ["h","e","l","l","o"]
+Output: ["o","l","l","e","h"]
 ```
 ---
 
