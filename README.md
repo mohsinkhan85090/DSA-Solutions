@@ -271,9 +271,9 @@ Output: fl
 Problem: Write a function that reverses a string. The input string is given as an array of characters, and you must do this in-place without returning anything.
 File: Array&String/reversestring.java
 
-Example:
-Input: s = ["h","e","l","l","o"]
-Output: ["o","l","l","e","h"]`
+Example:  
+Input: `["h","e","l","l","o"]`  
+Output: `["o","l","l","e","h"]`
 
 9. Reverse String II (LeetCode 541)
 Problem: Given a string s and integer k, reverse the first k characters for every 2k characters counting from the start. If fewer than k characters remain, reverse all. If between k and 2k, reverse only the first k.
