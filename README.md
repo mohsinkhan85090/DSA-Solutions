@@ -274,6 +274,16 @@ File: Array&String/reversestring.java
 Example:
 Input: s = ["h","e","l","l","o"]
 Output: ["o","l","l","e","h"]
+
+9. Reverse String II (LeetCode 541)
+Problem: Given a string s and integer k, reverse the first k characters for every 2k characters counting from the start. If fewer than k characters remain, reverse all. If between k and 2k, reverse only the first k.
+
+Approach: Process the string in chunks of 2k. For each chunk, reverse the first k characters (or until end of string). Use two pointers (start, end) to swap.
+File: String/ReverseStringII.java
+
+Example:
+Input: s = "abcdefg", k = 2
+Output: bacdfeg
 ```
 ---
 
