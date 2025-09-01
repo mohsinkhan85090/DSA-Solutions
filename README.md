@@ -284,6 +284,16 @@ File: String/ReverseStringII.java
 Example:
 Input: s = "abcdefg", k = 2
 Output: bacdfeg
+
+10. Find the Index of the First Occurrence in a String (LeetCode 28)
+Problem: Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack. Return 0 if needle is empty.
+
+Approach: Slide over haystack, check substrings of length needle.length(). Use substring + equals for comparison.
+File: String/StrStr.java
+
+Example:
+Input: haystack = hello, needle = ll
+Output: 2
 ```
 ---
 
