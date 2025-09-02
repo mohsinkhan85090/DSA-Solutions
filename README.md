@@ -200,6 +200,20 @@ Output: true
 
 Input: s = "rat", t = "car"
 Output: false
+
+21.Single Number
+Problem:
+Every element appears twice except one. Find that single one.
+Constraint: O(n) time, O(1) space.
+
+🔑 Trick
+Use XOR:
+x ^ x = 0
+x ^ 0 = x
+XOR of all numbers leaves the single element.
+Example:
+Input: nums = [4,1,2,1,2]
+Output: 4
 ```
 String
 ---
