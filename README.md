@@ -307,6 +307,18 @@ File: String/StrStr.java
 Example:
 Input: haystack = hello, needle = ll
 Output: 2
+
+11. Add Binary (LeetCode 67)
+Problem: Given two binary strings a and b, return their sum as a binary string.
+Approach: Convert both strings to integers (base 2), add them, then convert back to binary string. Time complexity → O(n).
+File: Array&String/AddBinary.py
+
+Example:
+Input: a = "11", b = "1"
+Output: "100"
+
+Input: a = "1010", b = "1011"
+Output: "10101"
 ```
 ---
 
