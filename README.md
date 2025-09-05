@@ -335,7 +335,7 @@ Output: "10101"
 - Each solution contains:
   - Problem statement summary
   - Approach description
-  - Java implementation
+  - Java/python implementation
 - More problems coming soon: Recursion, Graphs, Dynamic Programming, etc.
 
 ---
