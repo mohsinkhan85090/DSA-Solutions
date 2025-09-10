@@ -213,6 +213,16 @@ Use XOR: x ^ x = 0
 Example:Input: nums = [4,1,2,1,2]
         Output: 4
 
+22. Kth Largest Element in an Array (LeetCode 215)
+
+Problem: Find the Kth largest element in an unsorted array.
+Approach: Use Divide and Conquer (Quickselect) for average O(n) time.
+File: Divide_and_Conquer/KthLargestElement.java
+
+Example:
+Input: nums = [3,2,1,5,6,4], k = 2  
+Output: 5
+
 ```
 String
 ---
@@ -321,18 +331,10 @@ Input: a = "1010", b = "1011"
 Output: "10101"
 ```
 
-Divide and Conquer
+Linked list
 ---
 ```java
-1. Kth Largest Element in an Array (LeetCode 215)
 
-Problem: Find the Kth largest element in an unsorted array.
-Approach: Use Divide and Conquer (Quickselect) for average O(n) time.
-File: Divide_and_Conquer/KthLargestElement.java
-
-Example:
-Input: nums = [3,2,1,5,6,4], k = 2  
-Output: 5
 
 ```
 ---
