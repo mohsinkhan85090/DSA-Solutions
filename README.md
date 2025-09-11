@@ -7,17 +7,36 @@ It is organized **folder-wise** according to topics, each containing clean and o
 ---
 
 ## Array
-Two-pointer 
+
 ```java
+Solved Questions
+Two Pointers
 1. Two Sum (LeetCode 1)
-Problem: Find two numbers in an array that sum to a given target.  
-Approach: Uses a HashMap for O(n) time complexity.  
-File: `Array&String/Twosum.java`  
+
+Problem: Find two numbers in a sorted array that sum to a given target.
+Approach: Use two pointers—one at the start, one at the end—and move them based on the sum compared to the target. Time complexity: O(n).
+File: Array&String/Twosum.java
 
 Example:
 Input: nums = [2,7,11,15], target = 9
 Output: [0,1]
 
+2. Move Zeroes (LeetCode 283)
+Problem: Moves all zeroes to the end while keeping the relative order of non-zero elements.
+File: Array&String/movezeros.java
+
+Example:
+Input: nums = [0,1,0,3,12]
+Output: [1,3,12,0,0]
+
+3. Remove Duplicates from Sorted Array (LeetCode 26)
+Problem: Remove duplicates in-place from a sorted array so that each unique element appears only once. Return the number of unique elements.
+Approach: Two-pointer technique to overwrite duplicates while maintaining order.
+File: Array&String/Removeduplicatefromsortedarray.java
+
+Example:
+Input: nums = [1,1,2]
+Output: 2, nums = [1,2,_]
 2. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
 File: Array&String/Concatenation of Array.java
@@ -85,13 +104,7 @@ Input: nums1 = [1,2,3,0,0,0], m = 3
  nums2 = [2,5,6], n = 3
 Output: nums1 = [1,2,2,3,5,6]
 
-10. Move Zeroes (LeetCode 283)
-Problem: Moves all zeroes to the end while keeping the relative order of non-zero elements.
-File: Array&String/movezeros.java
 
-Example:
-Input: nums = [0,1,0,3,12]
-Output: [1,3,12,0,0]
 
 11. Search in Rotated Sorted Array (LeetCode 33)
 Problem: Searches for a target in a rotated sorted array.
@@ -129,14 +142,7 @@ Input: 9669
 Output: 9969
 
 
-15. Remove Duplicates from Sorted Array (LeetCode 26)
-Problem: Remove duplicates in-place from a sorted array so that each unique element appears only once. Return the number of unique elements.
-Approach: Two-pointer technique to overwrite duplicates while maintaining order.
-File: Array&String/Removeduplicatefromsortedarray.java
 
-Example:
-Input: nums = [1,1,2]
-Output: 2, nums = [1,2,_]
 
 16. Palindrome Number (LeetCode 9)  
 Problem: Check if an integer is a palindrome. A palindrome reads the same forward and backward.  
