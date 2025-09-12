@@ -67,6 +67,18 @@ Example:
 Input: s = "A man, a plan, a canal: Panama"
 Output: true
 
+7. Container With Most Water (LeetCode 11)
+
+Problem: Given an array of heights, find two lines that together with the x-axis form a container that holds the maximum water.
+
+Approach: Use two pointers—one at the start and one at the end. Calculate area, move the pointer pointing to the shorter line inward (since area is limited by the shorter line).
+Time complexity: O(n).
+File: Array&String/MaxWaterContainer.java
+
+Example:
+Input: height = [1,8,6,2,5,4,8,3,7]
+Output: 49**
+
 
 2. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
