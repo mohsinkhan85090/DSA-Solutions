@@ -58,6 +58,15 @@ Example:
 Input: nums = [-4,-1,0,3,10]
 Output: [0,1,9,16,100]
 
+6.Valid Palindrome (LeetCode 125)
+Problem: Check if a string reads the same forward and backward, ignoring non-alphanumeric characters and case.
+Approach: Use two pointers to skip non-alphanumeric characters and compare letters/digits.
+File: Array&String/validpalindrome.java
+
+Example:
+Input: s = "A man, a plan, a canal: Panama"
+Output: true
+
 
 2. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
@@ -170,14 +179,7 @@ Output: true
 Input: x = -121  
 Output: false
 
-16.Valid Palindrome (LeetCode 125)
-Problem: Check if a string reads the same forward and backward, ignoring non-alphanumeric characters and case.
-Approach: Use two pointers to skip non-alphanumeric characters and compare letters/digits.
-File: Array&String/validpalindrome.java
 
-Example:
-Input: s = "A man, a plan, a canal: Panama"
-Output: true
 
 17. Best Time to Buy and Sell Stock (LeetCode 121)
 Problem: Given an array of stock prices, find the maximum profit by choosing a single buy and sell day.
