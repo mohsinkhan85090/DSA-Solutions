@@ -12,7 +12,7 @@ It is organized **folder-wise** according to topics, each containing clean and o
 Solved Questions:-
 TWO POINTER
 
-1. Two Sum (LeetCode 1)
+1. Two Sum  II (LeetCode 167)
 
 Problem: Find two numbers in a sorted array that sum to a given target.
 Approach: Use two pointers—one at the start, one at the end—and move them based on the sum compared to the target. Time complexity: O(n).
