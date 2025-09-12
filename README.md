@@ -48,6 +48,17 @@ Example:
 Input: nums = [3,2,2,3], val = 3
 Output: 2, nums = [2,2,_,_]
 
+5. Squares of a Sorted Array (LeetCode 977)
+Problem: Given a sorted integer array, return a new array of the squares of each number, also sorted in non-decreasing order.
+Approach: Use a two-pointer technique—compare absolute values from both ends, place the larger square at the end of the result array, and move inward.
+Time complexity: O(n).
+File: Array&String/SortedSquares.java
+
+Example:
+Input: nums = [-4,-1,0,3,10]
+Output: [0,1,9,16,100]
+
+
 2. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
 File: Array&String/Concatenation of Array.java
