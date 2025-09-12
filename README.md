@@ -68,9 +68,7 @@ Input: s = "A man, a plan, a canal: Panama"
 Output: true
 
 7. Container With Most Water (LeetCode 11)
-
 Problem: Given an array of heights, find two lines that together with the x-axis form a container that holds the maximum water.
-
 Approach: Use two pointers—one at the start and one at the end. Calculate area, move the pointer pointing to the shorter line inward (since area is limited by the shorter line).
 Time complexity: O(n).
 File: Array&String/MaxWaterContainer.java
@@ -78,6 +76,27 @@ File: Array&String/MaxWaterContainer.java
 Example:
 Input: height = [1,8,6,2,5,4,8,3,7]
 Output: 49**
+
+8. Find Duplicate (LeetCode 287)
+Problem: Finds a duplicate number in an array containing n+1 integers in [1, n].
+File: Array&String/findDuplicate.java
+
+Example:
+Input: nums = [1,3,4,2,2]
+Output: 2
+
+9. Find Peak Element (LeetCode 162)
+Problem: Finds a peak element (greater than its neighbors).
+File: Array&String/findPeakElement.java
+
+
+10. Search Insert Position (LeetCode 35)
+Problem: Finds the index where a target should be inserted in a sorted array.
+File: Array&String/searchinsertposition.java
+
+Example:
+Input: nums = [1,3,5,6], target = 5
+Output: 2
 
 
 2. Concatenation of Array (LeetCode 1929)
@@ -115,17 +134,7 @@ Example:
 Input: nums = [3,0,1]
 Output: 2
 
-7. Find Duplicate (LeetCode 287)
-Problem: Finds a duplicate number in an array containing n+1 integers in [1, n].
-File: Array&String/findDuplicate.java
 
-Example:
-Input: nums = [1,3,4,2,2]
-Output: 2
-
-8. Find Peak Element (LeetCode 162)
-Problem: Finds a peak element (greater than its neighbors).
-File: Array&String/findPeakElement.java
 
 Example:
 Input: nums = [1,2,3,1]
@@ -150,13 +159,6 @@ Example:
 Input: nums = [4,5,6,7,0,1,2], target = 0
 Output: 4
 
-12. Search Insert Position (LeetCode 35)
-Problem: Finds the index where a target should be inserted in a sorted array.
-File: Array&String/searchinsertposition.java
-
-Example:
-Input: nums = [1,3,5,6], target = 5
-Output: 2
 
 13.Rotate Array (LeetCode 189)
 Problem: Rotate an array to the right by k steps.
