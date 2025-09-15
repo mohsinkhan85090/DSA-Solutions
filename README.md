@@ -98,8 +98,7 @@ Example:
 Input: nums = [1,3,5,6], target = 5
 Output: 2
 
-Solved Questions:-
-Divide and  Conquer
+DIVIDE AND CONQUER
 
 1.Maximum Subarray (LeetCode 53)
 Problem: Find the contiguous subarray with the maximum sum.
