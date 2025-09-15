@@ -109,6 +109,14 @@ Example:
 Input: nums = [-2,1,-3,4,-1,2,1,-5,4]
 Output: 6 (subarray [4,-1,2,1])
 
+2. Maximum Product Subarray (LeetCode 152)
+Problem: Find the contiguous subarray with the maximum product.
+Approach: Track both maxProd and minProd at each step (because a negative number can flip min to max). O(n) time.
+File: Array&String/maximumproductsubarray.java
+
+Example:
+Input: nums = [-2,3,-4]
+Output: 24 (subarray [-2,3,-4])
 
 2. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
