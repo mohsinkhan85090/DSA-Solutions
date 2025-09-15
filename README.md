@@ -98,6 +98,16 @@ Example:
 Input: nums = [1,3,5,6], target = 5
 Output: 2
 
+## Divide and  Conquer
+1.Maximum Subarray (LeetCode 53)
+Problem: Find the contiguous subarray with the maximum sum.
+Approach: Kadane’s Algorithm — track currSum and update maxSum. O(n) time.
+File: Array&String/maximumsubarray.java
+
+Example:
+Input: nums = [-2,1,-3,4,-1,2,1,-5,4]
+Output: 6 (subarray [4,-1,2,1])
+
 
 2. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
@@ -218,14 +228,7 @@ Explanation: Buy on day 2, sell on day 3 (profit = 4), then buy on day 4, sell o
 Input: prices = [1,2,3,4,5]
 Output: 4
 
-19. Maximum Subarray (LeetCode 53)
-Problem: Find the contiguous subarray with the maximum sum.
-Approach: Kadane’s Algorithm — track currSum and update maxSum. O(n) time.
-File: Array&String/maximumsubarray.java
 
-Example:
-Input: nums = [-2,1,-3,4,-1,2,1,-5,4]
-Output: 6 (subarray [4,-1,2,1])
 
 20. Valid Anagram (LeetCode 242)
 Problem: Check if two strings are anagrams (contain the same characters in the same frequency, but possibly in a different order).
