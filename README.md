@@ -98,7 +98,8 @@ Example:
 Input: nums = [1,3,5,6], target = 5
 Output: 2
 
-## Divide and  Conquer
+Divide and  Conquer
+
 1.Maximum Subarray (LeetCode 53)
 Problem: Find the contiguous subarray with the maximum sum.
 Approach: Kadane’s Algorithm — track currSum and update maxSum. O(n) time.
