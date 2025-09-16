@@ -6,11 +6,10 @@ It is organized **folder-wise** according to topics, each containing clean and o
 
 ---
 
-## Array
 
 ```java
 Solved Questions:-
-TWO POINTER
+ARRAY / TWO POINTER
 
 1. Two Sum  II (LeetCode 167)
 
@@ -97,8 +96,10 @@ File: Array&String/searchinsertposition.java
 Example:
 Input: nums = [1,3,5,6], target = 5
 Output: 2
-
-DIVIDE AND CONQUER
+```
+```java
+Solved Question:-
+ARRAY / KADEN'S ALGORITHM
 
 1.Maximum Subarray (LeetCode 53)
 Problem: Find the contiguous subarray with the maximum sum.
@@ -117,6 +118,22 @@ File: Array&String/maximumproductsubarray.java
 Example:
 Input: nums = [-2,3,-4]
 Output: 24 (subarray [-2,3,-4])
+```
+```java
+Solved Question:-
+ARRAY / DIVIDE AND CONQUER
+
+1. Binary Search (LeetCode 704)
+Problem: Given a sorted array of integers and a target value, return the index if the target is found. If not, return -1.
+Approach: Use the binary search technique — repeatedly divide the search space into halves.
+Time Complexity: O(log n).
+File: Array&String/BinarySearch.java
+
+Example:
+Input: nums = [-1,0,3,5,9,12], target = 9
+Output: 4
+
+```
 
 2. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
