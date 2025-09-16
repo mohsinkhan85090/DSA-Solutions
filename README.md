@@ -145,6 +145,14 @@ File: Array&String/FirstAndLastPosition.java
 Example:
 Input: nums = [5,7,7,8,8,10], target = 8
 Output: [3, 4]
+
+3. Search in Rotated Sorted Array (LeetCode 33)
+Problem: Searches for a target in a rotated sorted array.
+File: Array&String/search.java
+
+Example:
+Input: nums = [4,5,6,7,0,1,2], target = 0
+Output: 4
 ```
 
 2. Concatenation of Array (LeetCode 1929)
@@ -199,13 +207,7 @@ Output: nums1 = [1,2,2,3,5,6]
 
 
 
-11. Search in Rotated Sorted Array (LeetCode 33)
-Problem: Searches for a target in a rotated sorted array.
-File: Array&String/search.java
 
-Example:
-Input: nums = [4,5,6,7,0,1,2], target = 0
-Output: 4
 
 
 13.Rotate Array (LeetCode 189)
