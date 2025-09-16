@@ -5,7 +5,7 @@ This repository is a personal collection of **Data Structures and Algorithms** p
 It is organized **folder-wise** according to topics, each containing clean and optimized solutions following common DSA patterns.
 
 ---
-
+## Array
 
 ```java
 Solved Questions:-
@@ -97,6 +97,10 @@ Example:
 Input: nums = [1,3,5,6], target = 5
 Output: 2
 ```
+
+## String
+
+
 ```java
 Solved Question:-
 ARRAY / KADEN'S ALGORITHM
