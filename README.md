@@ -9,7 +9,7 @@ It is organized **folder-wise** according to topics, each containing clean and o
 
 ```java
 Solved Questions:-
-ARRAY / TWO POINTER
+TWO POINTER
 
 1. Two Sum  II (LeetCode 167)
 
@@ -98,12 +98,10 @@ Input: nums = [1,3,5,6], target = 5
 Output: 2
 ```
 
-## String
-
 
 ```java
 Solved Question:-
-ARRAY / KADEN'S ALGORITHM
+KADEN'S ALGORITHM
 
 1.Maximum Subarray (LeetCode 53)
 Problem: Find the contiguous subarray with the maximum sum.
@@ -123,9 +121,10 @@ Example:
 Input: nums = [-2,3,-4]
 Output: 24 (subarray [-2,3,-4])
 ```
+
 ```java
 Solved Question:-
-ARRAY / DIVIDE AND CONQUER
+DIVIDE AND CONQUER
 
 1. Binary Search (LeetCode 704)
 Problem: Given a sorted array of integers and a target value, return the index if the target is found. If not, return -1.
