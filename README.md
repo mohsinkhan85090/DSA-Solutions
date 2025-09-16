@@ -136,6 +136,15 @@ Example:
 Input: nums = [-1,0,3,5,9,12], target = 9
 Output: 4
 
+2. Find First and Last Position of Element in Sorted Array (LeetCode 34)
+Problem: Given a sorted array of integers and a target value, return the starting and ending position of the target. If not found, return [-1, -1].
+Approach: Use binary search twice — once to find the first occurrence and once for the last occurrence.
+Time Complexity: O(log n).
+File: Array&String/FirstAndLastPosition.java
+
+Example:
+Input: nums = [5,7,7,8,8,10], target = 8
+Output: [3, 4]
 ```
 
 2. Concatenation of Array (LeetCode 1929)
