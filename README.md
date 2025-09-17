@@ -211,6 +211,16 @@ File: Array&String/findhighestaltitude.java
 Example:
 Input: gain = [-5,1,5,0,-7]
 Output: 1
+
+6. Range Sum Query – Immutable (LeetCode 303)
+Problem: Given an integer array, implement a data structure NumArray that supports querying the sum of elements between indices left and right (inclusive). Must answer multiple queries efficiently.
+File: Array&String/rangesumquery.java
+Example:
+Input: nums = [-2,0,3,-5,2,-1], Queries:
+sumRange(0,2) → 1
+sumRange(2,5) → -1
+sumRange(0,5) → -3
+
 ```
 2. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
