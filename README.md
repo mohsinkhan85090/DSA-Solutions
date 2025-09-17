@@ -234,6 +234,14 @@ Example:
 Input: nums = [1,2,3,1]
 Output: true
 
+2. Majority Element (LeetCode 169)
+Problem: Finds the element that appears more than n/2 times. using HAshMAp 
+File: Array&String/MajorityElement.java
+
+Example:
+Input: nums = [3,2,3]
+Output: 3
+
 ```
 2. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
@@ -247,13 +255,7 @@ Output: [1,2,3,1,2,3]
 
 
 
-5. Majority Element (LeetCode 169)
-Problem: Finds the element that appears more than n/2 times.
-File: Array&String/MajorityElement.java
 
-Example:
-Input: nums = [3,2,3]
-Output: 3
 
 6. Missing Number (LeetCode 268)
 Problem: Finds the missing number in an array containing n distinct numbers in [0, n].
