@@ -165,7 +165,21 @@ Input: nums = [3,2,1,5,6,4], k = 2
 Output: 5
 
 ```
+```java
+Solved Question:-
+KADEN'S ALGORITHM
 
+1. Running Sum of 1D Array (LeetCode 1480)
+
+Problem: Given an array nums, return the running sum of nums. The running sum of an array is defined as runningSum[i] = sum(nums[0]…nums[i]).
+Approach: Use prefix sum technique. Start with the first element as it is, then for each index i, add nums[i] to the previous running sum.
+Time complexity: O(n)
+Space complexity: O(1) if done in-place, O(n) if using a separate array.
+
+File:Array&String/runningsum.java
+Example: Input: nums = [1,2,3,4]
+         Output:  [1,3,6,10]
+```
 2. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
 File: Array&String/Concatenation of Array.java
