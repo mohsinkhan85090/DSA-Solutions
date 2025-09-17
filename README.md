@@ -167,7 +167,7 @@ Output: 5
 ```
 ```java
 Solved Question:-
-KADEN'S ALGORITHM
+PREFIX SUM
 
 1. Running Sum of 1D Array (LeetCode 1480)
 
