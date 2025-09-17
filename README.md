@@ -220,6 +220,19 @@ Input: nums = [-2,0,3,-5,2,-1], Queries:
 sumRange(0,2) → 1
 sumRange(2,5) → -1
 sumRange(0,5) → -3
+```
+
+```java
+Solved Question:-
+HASHMAP / HASHSET
+
+1. Contains Duplicate (LeetCode 217)
+Problem: Checks if any value appears more than once in the array.
+Approach: Uses a HashSet for O(n) time complexity.
+File: Array&String/ContainsDuplicate.java
+Example:
+Input: nums = [1,2,3,1]
+Output: true
 
 ```
 2. Concatenation of Array (LeetCode 1929)
@@ -230,14 +243,7 @@ Example:
 Input: nums = [1,2,3]
 Output: [1,2,3,1,2,3]
 
-3. Contains Duplicate (LeetCode 217)
-Problem: Checks if any value appears more than once in the array.
-Approach: Uses a HashSet for O(n) time complexity.
-File: Array&String/ContainsDuplicate.java
 
-Example:
-Input: nums = [1,2,3,1]
-Output: true
 
 
 
