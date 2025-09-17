@@ -179,6 +179,18 @@ Space complexity: O(1) if done in-place, O(n) if using a separate array.
 File:Array&String/runningsum.java
 Example: Input: nums = [1,2,3,4]
          Output:  [1,3,6,10]
+
+2. Find Pivot Index (LeetCode 724)
+Problem:
+Find the pivot index of the array where the sum of the numbers on the left is equal to the sum of the numbers on the right. If no such index exists, return -1. If there are multiple pivot indexes, return the leftmost one.
+Time Complexity: O(n)
+Space Complexity: O(1)
+
+File: Array&String/FindPivotIndex.java
+Example:Input: nums = [1,7,3,6,5,6]
+Output: 3
+Explanation: At index 3, left sum = 1+7+3 = 11 and right sum = 5+6 = 11.
+
 ```
 2. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
