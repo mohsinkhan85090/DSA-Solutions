@@ -189,6 +189,15 @@ Example:Input: nums = [1,7,3,6,5,6]
 Output: 3
 Explanation: At index 3, left sum = 1+7+3 = 11 and right sum = 5+6 = 11.
 
+3. Product of Array Except Self (LeetCode 238)
+Problem: Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i]. You must solve it without using division and in O(n) time.
+Time complexity: O(n)
+Space complexity: O(1) (if output array doesn’t count, otherwise O(n))
+File: Array&String/ProductOfArrayExceptSelf.java
+Example:
+Input: nums = [1,2,3,4]
+Output: [24,12,8,6]
+
 ```
 2. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
