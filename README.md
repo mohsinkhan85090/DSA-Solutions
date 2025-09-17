@@ -198,6 +198,12 @@ Example:
 Input: nums = [1,2,3,4]
 Output: [24,12,8,6]
 
+4. Find the Middle Index in Array (LeetCode 1991)
+Problem: Find the leftmost index where the sum of elements to its left equals the sum of elements to its right. Return -1 if no such index exists.
+File: Array&String/findmiddleindex.java
+Example:
+Input: nums = [2,3,-1,8,4]
+Output: 3
 ```
 2. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
@@ -234,12 +240,6 @@ Example:
 Input: nums = [3,0,1]
 Output: 2
 
-
-
-Example:
-Input: nums = [1,2,3,1]
-Output: 2
-
 9. Merge Sorted Array (LeetCode 88)
 Problem: Merges two sorted arrays in-place.
 File: Array&String/mergesortedarray.py
@@ -248,8 +248,6 @@ Example:
 Input: nums1 = [1,2,3,0,0,0], m = 3
  nums2 = [2,5,6], n = 3
 Output: nums1 = [1,2,2,3,5,6]
-
-
 
 
 
