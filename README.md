@@ -204,6 +204,13 @@ File: Array&String/findmiddleindex.java
 Example:
 Input: nums = [2,3,-1,8,4]
 Output: 3
+
+5. Find the Highest Altitude (LeetCode 1732)
+Problem: Given the net gains in altitude between points of a road trip, return the highest altitude reached starting from 0.
+File: Array&String/findhighestaltitude.java
+Example:
+Input: gain = [-5,1,5,0,-7]
+Output: 1
 ```
 2. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
