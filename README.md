@@ -242,6 +242,15 @@ Example:
 Input: nums = [3,2,3]
 Output: 3
 
+3. Unique Number of Occurrences (LeetCode 1207)
+Problem: Given an integer array arr, return true if the number of occurrences of each value is unique, otherwise return false.
+Approach: Use a HashMap to count the frequency of each number. Then insert all frequencies into a HashSet. If the size of the set equals the size of the map, all frequencies are unique. Use old-style for loops for beginner-friendly coding.
+File: Array&HashMap/UniqueNumberOfOccurrences.java
+
+Example:
+Input: arr = [1,2,2,1,1,3]
+Output: true
+Explanation: Frequencies are {1:3, 2:2, 3:1} → all counts are unique.
 4. Longest Consecutive Sequence (LeetCode 128)
 Problem: Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence. You must write an algorithm that runs in O(n) time.
 Approach: Use a HashSet to store all numbers. For each number, only start counting if it is the beginning of a sequence (i.e., num-1 is not in the set). Expand the sequence forward and keep track of the maximum length.
