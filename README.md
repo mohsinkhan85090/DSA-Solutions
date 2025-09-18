@@ -242,6 +242,16 @@ Example:
 Input: nums = [3,2,3]
 Output: 3
 
+4. Longest Consecutive Sequence (LeetCode 128)
+Problem: Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence. You must write an algorithm that runs in O(n) time.
+Approach: Use a HashSet to store all numbers. For each number, only start counting if it is the beginning of a sequence (i.e., num-1 is not in the set). Expand the sequence forward and keep track of the maximum length.
+File: Array&HashSet/LongestConsecutiveSequence.java
+
+Example:
+Input: nums = [100,4,200,1,3,2]
+Output: 4
+Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.
+
 ```
 2. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
