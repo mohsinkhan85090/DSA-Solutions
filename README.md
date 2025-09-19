@@ -261,6 +261,23 @@ Input: nums = [100,4,200,1,3,2]
 Output: 4
 Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.
 
+5. Intersection of Two Arrays (LeetCode 349)
+Problem: Find the unique common elements between two arrays.
+Approach: Use a HashSet to store elements of the first array, then check each element of the second array for presence. Time complexity: O(n + m).
+File: Array&String/Intersection349.java
+
+Example:
+Input: nums1 = [4,9,5], nums2 = [9,4,9,8,4]
+Output: [4,9]  // order not guaranteed
+
+6. Intersection of Two Arrays II (LeetCode 350)
+Problem: Find the common elements between two arrays, including duplicates.
+Approach: Use a HashMap to count the frequency of elements in the first array, then traverse the second array to add common elements based on remaining counts. Time complexity: O(n + m).
+File: Array&String/Intersection350.java
+
+Example:
+Input: nums1 = [1,2,2,1], nums2 = [2,2]
+Output: [2,2]
 ```
 2. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
