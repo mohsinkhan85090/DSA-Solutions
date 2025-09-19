@@ -278,6 +278,15 @@ File: Array&String/Intersection350.java
 Example:
 Input: nums1 = [1,2,2,1], nums2 = [2,2]
 Output: [2,2]
+
+7. Find Duplicate (LeetCode 287)
+Problem: Finds a duplicate number in an array containing n+1 integers in [1, n].
+File: Array&String/findDuplicate.java
+
+Example:
+Input: nums = [1,3,4,2,2]
+Output: 2
+
 ```
 2. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
