@@ -292,7 +292,7 @@ Output: 2
 Solved Question:-
 SLIDING WINDOW
 
-2. Minimum Size Subarray Sum (LeetCode 209)
+1. Minimum Size Subarray Sum (LeetCode 209)
 Problem:Given an array of positive integers nums and a positive integer target, return the minimal length of a contiguous subarray of which the sum is greater than or equal to target. If there is no such subarray, return 0.
 Approach:Use the sliding window technique with two pointers (start and end). Expand the window by adding elements to sum until it is greater than or equal to target. Then shrink the window from the left while maintaining the condition, updating the minimum length each time.
 Time complexity: O(n).
@@ -302,6 +302,23 @@ Example:
 Input: target = 7, nums = [2,3,1,2,4,3]
 Output: 2
 (Explanation: The subarray [4,3] has the minimal length under the problem constraint.)
+
+2. Maximum Average Subarray I (LeetCode 643)
+Problem:You are given an integer array nums consisting of n elements, and an integer k. Find a contiguous subarray whose length is equal to k that has the maximum average value, and return this value. Any answer with a calculation error less than 10^-5 will be accepted.
+Approach:Use the sliding window technique.
+Compute the sum of the first k elements.
+Store its average as the initial maximum.
+Slide the window by removing the element that goes out of the window and adding the next element.
+Update the maximum average whenever a larger average is found.
+
+Time complexity: O(n) (each element is processed once).
+
+
+File:Array&String/MaxAverageSubarray.java
+Example:
+Input: nums = [1,12,-5,-6,50,3], k = 4
+Output: 12.75
+(Explanation: The subarray [12, -5, -6, 50] has the maximum average of 12.75.)
 
 ```
 2. Concatenation of Array (LeetCode 1929)
