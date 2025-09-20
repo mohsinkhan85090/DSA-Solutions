@@ -288,6 +288,22 @@ Input: nums = [1,3,4,2,2]
 Output: 2
 
 ```
+```java
+Solved Question:-
+SLIDING WINDOW
+
+2. Minimum Size Subarray Sum (LeetCode 209)
+Problem:Given an array of positive integers nums and a positive integer target, return the minimal length of a contiguous subarray of which the sum is greater than or equal to target. If there is no such subarray, return 0.
+Approach:Use the sliding window technique with two pointers (start and end). Expand the window by adding elements to sum until it is greater than or equal to target. Then shrink the window from the left while maintaining the condition, updating the minimum length each time.
+Time complexity: O(n).
+File:Array&String/MinSubarrayLen.java
+
+Example:
+Input: target = 7, nums = [2,3,1,2,4,3]
+Output: 2
+(Explanation: The subarray [4,3] has the minimal length under the problem constraint.)
+
+```
 2. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
 File: Array&String/Concatenation of Array.java
