@@ -357,6 +357,22 @@ Input: prices = [1,2,3,4,5]
 Output: 4
 
 ```
+```java
+Solved Question:-
+BIT MANIPULATION
+
+1.Single Number
+Problem:
+Every element appears twice except one. Find that single one.
+Constraint: O(n) time, O(1) space.
+
+Trick
+Use XOR: x ^ x = 0
+         x ^ 0 = x
+         XOR of all numbers leaves the single element.
+Example:Input: nums = [4,1,2,1,2]
+        Output: 4
+```
 
 2. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
@@ -419,33 +435,6 @@ Input: x = -121
 Output: false
 
 
-
-
-
-
-20. Valid Anagram (LeetCode 242)
-Problem: Check if two strings are anagrams (contain the same characters in the same frequency, but possibly in a different order).
-Approach: Sort both strings and compare character by character.
-File: Array&String/validAnagram.java
-
-Example:
-Input: s = "anagram", t = "nagaram"
-Output: true
-
-Input: s = "rat", t = "car"
-Output: false
-
-21.Single Number
-Problem:
-Every element appears twice except one. Find that single one.
-Constraint: O(n) time, O(1) space.
-
-Trick
-Use XOR: x ^ x = 0
-         x ^ 0 = x
-         XOR of all numbers leaves the single element.
-Example:Input: nums = [4,1,2,1,2]
-        Output: 4
 
 
 
