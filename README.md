@@ -321,6 +321,43 @@ Output: 12.75
 (Explanation: The subarray [12, -5, -6, 50] has the maximum average of 12.75.)
 
 ```
+
+```java
+Solved Question:-
+GREEDY ALGORITHM
+
+1. Maximum 69 Number (LeetCode 1323)
+Problem: Change at most one 6 to 9 to maximize the number.
+Approach: Replace the first 6 with 9.
+File: Array&String/Maximum69Number.java
+
+Example:
+Input: 9669
+Output: 9969
+
+2. Best Time to Buy and Sell Stock (LeetCode 121)
+Problem: Given an array of stock prices, find the maximum profit by choosing a single buy and sell day.
+Approach: Track the minimum price so far and calculate the maximum profit in one pass (O(n) time).
+File: Array&String/besttimetobuyandsellstock.java
+Example:
+Input: prices = [7,1,5,3,6,4]
+Output: 5
+Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
+
+3. Best Time to Buy and Sell Stock II (LeetCode 122)
+Problem: Maximize profit by buying and selling stocks on multiple days. You can hold at most one share at a time.
+Approach: Sum all positive differences between consecutive days (O(n) time).
+File: Array&String/besttimetobuyandsellstockII.java
+Example:
+Input: prices = [7,1,5,3,6,4]
+Output: 7
+Explanation: Buy on day 2, sell on day 3 (profit = 4), then buy on day 4, sell on day 5 (profit = 3). Total = 7.
+
+Input: prices = [1,2,3,4,5]
+Output: 4
+
+```
+
 2. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
 File: Array&String/Concatenation of Array.java
@@ -365,14 +402,7 @@ Input: nums = [1,2,3,4,5,6,7], k = 3
 Output: [5,6,7,1,2,3,4]
 
 
-14. Maximum 69 Number (LeetCode 1323)
-Problem: Change at most one 6 to 9 to maximize the number.
-Approach: Replace the first 6 with 9.
-File: Array&String/Maximum69Number.java
 
-Example:
-Input: 9669
-Output: 9969
 
 
 
@@ -390,28 +420,6 @@ Output: false
 
 
 
-17. Best Time to Buy and Sell Stock (LeetCode 121)
-Problem: Given an array of stock prices, find the maximum profit by choosing a single buy and sell day.
-Approach: Track the minimum price so far and calculate the maximum profit in one pass (O(n) time).
-File: Array&String/besttimetobuyandsellstock.java
-
-Example:
-Input: prices = [7,1,5,3,6,4]
-Output: 5
-Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
-
-18. Best Time to Buy and Sell Stock II (LeetCode 122)
-Problem: Maximize profit by buying and selling stocks on multiple days. You can hold at most one share at a time.
-Approach: Sum all positive differences between consecutive days (O(n) time).
-File: Array&String/besttimetobuyandsellstockII.java
-
-Example:
-Input: prices = [7,1,5,3,6,4]
-Output: 7
-Explanation: Buy on day 2, sell on day 3 (profit = 4), then buy on day 4, sell on day 5 (profit = 3). Total = 7.
-
-Input: prices = [1,2,3,4,5]
-Output: 4
 
 
 
