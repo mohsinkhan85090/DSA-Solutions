@@ -396,9 +396,9 @@ Output: true
 Input: x = -121  
 Output: false
 ```
+Iterative
 
-
-2. Concatenation of Array (LeetCode 1929)
+1. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
 File: Array&String/Concatenation of Array.java
 
@@ -406,7 +406,17 @@ Example:
 Input: nums = [1,2,3]
 Output: [1,2,3,1,2,3]
 
+2.Check if Array Is Sorted and Rotated (LeetCode 1752)
+Problem: Check if array can be sorted in non-decreasing order and then rotated.
+File: Array&String/Counting/CheckSortedAndRotated.java
 
+Approach: Count positions where arr[i] > arr[(i+1)%n].
+If count ≤ 1 → true
+Else → false
+Time: O(n) | Space: O(1)
+Example:
+Input: [3,4,5,1,2] → Output: true
+Input: [2,1,3,4] → Output: false
 
 
 
