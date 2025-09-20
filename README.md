@@ -373,6 +373,30 @@ Use XOR: x ^ x = 0
 Example:Input: nums = [4,1,2,1,2]
         Output: 4
 ```
+```java
+Solved Question:-
+MATHEMATICAL APPROACH
+
+1. Missing Number (LeetCode 268)
+Problem: Finds the missing number in an array containing n distinct numbers in [0, n].
+File: Array&String/Missingnumber.java
+Example:
+Input: nums = [3,0,1]
+Output: 2
+
+
+2. Palindrome Number (LeetCode 9)  
+Problem: Check if an integer is a palindrome. A palindrome reads the same forward and backward.  
+File: Array&String/PalindromeNumber.java  
+
+Example:  
+Input: x = 121  
+Output: true  
+
+Input: x = -121  
+Output: false
+```
+
 
 2. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
@@ -384,55 +408,6 @@ Output: [1,2,3,1,2,3]
 
 
 
-
-
-
-
-6. Missing Number (LeetCode 268)
-Problem: Finds the missing number in an array containing n distinct numbers in [0, n].
-File: Array&String/Missingnumber.java
-
-Example:
-Input: nums = [3,0,1]
-Output: 2
-
-9. Merge Sorted Array (LeetCode 88)
-Problem: Merges two sorted arrays in-place.
-File: Array&String/mergesortedarray.py
-
-Example:
-Input: nums1 = [1,2,3,0,0,0], m = 3
- nums2 = [2,5,6], n = 3
-Output: nums1 = [1,2,2,3,5,6]
-
-
-
-
-13.Rotate Array (LeetCode 189)
-Problem: Rotate an array to the right by k steps.
-Approach: Use modulo indexing: B[i] = A[(i + k) % n]. This creates the rotated array efficiently.
-File: Array&String/RotateArray.java
-
-Example:
-Input: nums = [1,2,3,4,5,6,7], k = 3
-Output: [5,6,7,1,2,3,4]
-
-
-
-
-
-
-
-16. Palindrome Number (LeetCode 9)  
-Problem: Check if an integer is a palindrome. A palindrome reads the same forward and backward.  
-File: Array&String/PalindromeNumber.java  
-
-Example:  
-Input: x = 121  
-Output: true  
-
-Input: x = -121  
-Output: false
 
 
 
