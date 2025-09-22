@@ -396,6 +396,7 @@ Output: true
 Input: x = -121  
 Output: false
 ```
+```
 Iterative
 
 1. Concatenation of Array (LeetCode 1929)
@@ -419,7 +420,7 @@ Input: [3,4,5,1,2] → Output: true
 Input: [2,1,3,4] → Output: false
 
 
-
+```
 
 
 
