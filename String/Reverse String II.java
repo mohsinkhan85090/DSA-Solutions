@@ -12,15 +12,7 @@ class Solution {
                 c[end]=temp;
                 start++;
                 end--;
-                 }
-
-
-
- 
-    
-
-
-                                                   
+                 }                               
 
         }
         return new String(c);
