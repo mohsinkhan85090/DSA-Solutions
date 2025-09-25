@@ -424,9 +424,7 @@ Input: [2,1,3,4] → Output: false
 ```
 
 
-
-```
-String
+ ## String
 ```java
 Solved Question :-
 TWO POINTER
