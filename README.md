@@ -397,7 +397,8 @@ Input: x = -121
 Output: false
 ```
 ```
-Iterative
+Solved Question:-
+ITERATIVE 
 
 1. Concatenation of Array (LeetCode 1929)
 Problem: Concatenates an array to itself and returns the new array.
@@ -426,8 +427,26 @@ Input: [2,1,3,4] → Output: false
 
 ```
 String
----
 ```java
+Solved Question :-
+TWO POINTER
+
+1. Reverse String (LeetCode 344)
+Problem: Write a function that reverses a string. The input string is given as an array of characters, and you must do this in-place without returning anything.
+File: Array&String/reversestring.java
+
+Example:  
+Input: [h,e,l,l,o] 
+Output: [o,l,l,e,h]
+
+2. Reverse String II (LeetCode 541)
+Problem: Given a string s and integer k, reverse the first k characters for every 2k characters counting from the start. If fewer than k characters remain, reverse all. If between k and 2k, reverse only the first k.
+
+Approach: Process the string in chunks of 2k. For each chunk, reverse the first k characters (or until end of string). Use two pointers (start, end) to swap.
+File: String/ReverseStringII.java
+
+
+```
 1. Valid Parentheses (LeetCode 20)
 Problem: Given a string containing (, ), {, }, [ and ], determine if the input string is valid. A string is valid if brackets are closed in the correct order.
 Approach: Uses a Stack (or ArrayDeque) and a HashMap for matching brackets → O(n) time complexity.
@@ -491,19 +510,7 @@ Example:
 Input: [flower, flow, flight] 
 Output: fl
 
-8. Reverse String (LeetCode 344)
-Problem: Write a function that reverses a string. The input string is given as an array of characters, and you must do this in-place without returning anything.
-File: Array&String/reversestring.java
 
-Example:  
-Input: [h,e,l,l,o] 
-Output: [o,l,l,e,h]
-
-9. Reverse String II (LeetCode 541)
-Problem: Given a string s and integer k, reverse the first k characters for every 2k characters counting from the start. If fewer than k characters remain, reverse all. If between k and 2k, reverse only the first k.
-
-Approach: Process the string in chunks of 2k. For each chunk, reverse the first k characters (or until end of string). Use two pointers (start, end) to swap.
-File: String/ReverseStringII.java
 
 Example:
 Input: s = "abcdefg", k = 2
