@@ -450,6 +450,15 @@ File: String/reverseonlyletters.java
 Example:
 Input: "a-bC-dEf-ghIj"
 Output: "j-Ih-gfE-dCba"
+
+4. Reverse Vowels of a String (LeetCode 345)
+Problem: Reverse only the vowels in a string while keeping the other characters in place.
+Approach: Use two pointers (left and right). Move them inward until both point to vowels, then swap. Continue until pointers meet.
+Time Complexity: O(n)
+File: String/ReverseVowels.java
+Example:
+Input: s = "hello"
+Output: "holle"
 ```
 1. Valid Parentheses (LeetCode 20)
 Problem: Given a string containing (, ), {, }, [ and ], determine if the input string is valid. A string is valid if brackets are closed in the correct order.
