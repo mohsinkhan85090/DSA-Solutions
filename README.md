@@ -460,6 +460,20 @@ Example:
 Input: s = "hello"
 Output: "holle"
 ```
+```java
+Solved Question :-
+GREEDY ALGORITHM
+
+1. Roman to Integer (LeetCode 13)
+Problem: Convert a Roman numeral string into an integer by applying Roman numeral rules (subtractive and additive).
+Approach: Traverse the string right-to-left. For each symbol, decide whether to add or subtract its value based on the already accumulated total (if 4 * value < total → subtract, else add). This greedy one-pass solution ensures correctness.
+Time complexity: O(n).
+File: Array&String/RomanToInt.java
+Example:
+Input: s = "MCMXCIV"
+Output: 1994
+```
+
 1. Valid Parentheses (LeetCode 20)
 Problem: Given a string containing (, ), {, }, [ and ], determine if the input string is valid. A string is valid if brackets are closed in the correct order.
 Approach: Uses a Stack (or ArrayDeque) and a HashMap for matching brackets → O(n) time complexity.
