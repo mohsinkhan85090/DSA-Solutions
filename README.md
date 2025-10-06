@@ -28,12 +28,6 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 | **Iterative / Simulation** | ✅ 2 | Concatenation of Array, Check if Array Is Sorted and Rotated |
 
 
-> 🧠 *Each file contains:*  
-> • Problem statement summary  
-> • Intuitive approach  
-> • Time & space complexity  
-> • Clean, traditional `for` loop–based Java implementation  
-
 ---
 
 ## ⚙️ Tech Stack
@@ -43,17 +37,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 - **Platform:** LeetCode  
 - **Editor:** VS Code  
 
----
 
-## 🚀 Roadmap
-
-- [x] Arrays  
-- [x] Strings  
-- [ ] Linked Lists  
-- [ ] Recursion  
-- [ ] Stack & Queue  
-- [ ] Trees & Graphs  
-- [ ] Dynamic Programming  
 
 ---
 
