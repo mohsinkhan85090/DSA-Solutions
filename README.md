@@ -8,25 +8,24 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 
 ## 🧩 Problem Progress
 
-| 🗂️ Topic | 📊 Progress |  Problems Solved |
-|:----------|:-----------:|:-----------------|
-| **Array** | ✅ 25 | Two Sum II, Move Zeroes, Remove Duplicates, Remove Element, Squares of a Sorted Array, Valid Palindrome, Container With Most Water, Find Duplicate, Find Peak Element, Search Insert Position, Maximum Subarray, Maximum Product Subarray, Binary Search, Find First and Last Position, Search in Rotated Array, Kth Largest Element, Running Sum, Find Pivot Index, Product of Array Except Self, Find Middle Index, Find Highest Altitude, Range Sum Query, Contains Duplicate, Majority Element, Unique Number of Occurrences |
-| **String** | ✅ 8 | Reverse String, Reverse String II, Reverse Only Letters, Reverse Vowels, Roman to Integer, Valid Parentheses, Valid Palindrome,  Valid Anagram|
-| **Linked List (LL)** | 🚧 0 | Coming soon |
-| **Stack & Queue** | 🚧 0 | Coming soon |
-| **Tree** | 🚧 0 | Coming soon |
-| **Graph** | 🚧 0 | Coming soon |
-| **HashMap / HashSet** | ✅ 6 | Contains Duplicate, Majority Element, Unique Number of Occurrences, Longest Consecutive Sequence, Intersection of Two Arrays, Intersection of Two Arrays II |
-| **Prefix Sum / Cumulative Sum** | ✅ 6 | Running Sum, Find Pivot Index, Product of Array Except Self, Find Middle Index, Find Highest Altitude, Range Sum Query |
-| **Sliding Window** | ✅ 2 | Minimum Size Subarray Sum, Maximum Average Subarray |
-| **Greedy** | ✅ 3 | Maximum 69 Number, Best Time to Buy and Sell Stock, Best Time to Buy and Sell Stock II |
-| **Divide and Conquer** | ✅ 4 | Binary Search, Find First and Last Position, Search in Rotated Array, Kth Largest Element |
-| **Kadane’s Algorithm** | ✅ 2 | Maximum Subarray, Maximum Product Subarray |
-| **Bit Manipulation** | ✅ 1 | Single Number |
-| **Mathematical / Number Theory** | ✅ 2 | Missing Number, Palindrome Number |
-| **Dynamic Programming (DP)** | 🚧 0 | Coming soon |
-| **Iterative / Simulation** | ✅ 2 | Concatenation of Array, Check if Array Is Sorted and Rotated |
-
+| 🗂️ Topic | 📊 Progress | Problems Solved |
+|-----------|------------|----------------|
+| Array | ✅ 25 | Two Sum II<br>Move Zeroes<br>Remove Duplicates<br>Remove Element<br>Squares of a Sorted Array<br>Valid Palindrome<br>Container With Most Water<br>Find Duplicate<br>Find Peak Element<br>Search Insert Position<br>Maximum Subarray<br>Maximum Product Subarray<br>Binary Search<br>Find First and Last Position<br>Search in Rotated Array<br>Kth Largest Element<br>Running Sum<br>Find Pivot Index<br>Product of Array Except Self<br>Find Middle Index<br>Find Highest Altitude<br>Range Sum Query<br>Contains Duplicate<br>Majority Element<br>Unique Number of Occurrences |
+| String | ✅ 8 | Reverse String<br>Reverse String II<br>Reverse Only Letters<br>Reverse Vowels<br>Roman to Integer<br>Valid Parentheses<br>Valid Palindrome<br>Valid Anagram |
+| Linked List (LL) | 🚧 0 | Coming Soon |
+| Stack & Queue | 🚧 0 | Coming Soon |
+| Tree | 🚧 0 | Coming Soon |
+| Graph | 🚧 0 | Coming Soon |
+| HashMap / HashSet | ✅ 6 | Contains Duplicate<br>Majority Element<br>Unique Number of Occurrences<br>Longest Consecutive Sequence<br>Intersection of Two Arrays<br>Intersection of Two Arrays II |
+| Prefix Sum / Cumulative Sum | ✅ 6 | Running Sum<br>Find Pivot Index<br>Product of Array Except Self<br>Find Middle Index<br>Find Highest Altitude<br>Range Sum Query |
+| Sliding Window | ✅ 2 | Minimum Size Subarray Sum<br>Maximum Average Subarray |
+| Greedy | ✅ 3 | Maximum 69 Number<br>Best Time to Buy and Sell Stock<br>Best Time to Buy and Sell Stock II |
+| Divide and Conquer | ✅ 4 | Binary Search<br>Find First and Last Position<br>Search in Rotated Array<br>Kth Largest Element |
+| Kadane’s Algorithm | ✅ 2 | Maximum Subarray<br>Maximum Product Subarray |
+| Bit Manipulation | ✅ 1 | Single Number |
+| Mathematical / Number Theory | ✅ 2 | Missing Number<br>Palindrome Number |
+| Dynamic Programming (DP) | 🚧 0 | Coming Soon |
+| Iterative / Simulation | ✅ 2 | Concatenation of Array<br>Check if Array Is Sorted and Rotated |
 
 ---
 
