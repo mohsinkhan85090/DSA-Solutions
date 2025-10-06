@@ -23,32 +23,26 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 
 ## 🧩 Problem Progress
 
-### 🧩 Problem Progress
-
-| 🗂️ Topic | 📊 Progress | 🧠 Problems |
-|:----------|:-----------:|:------------|
-| **Array** | ✅ 25 | Two Sum II, Move Zeroes, Remove Duplicates, Remove Element, Squares of a Sorted Array, Valid Palindrome, Container With Most Water, Find Duplicate, Find Peak Element, Search Insert Position, Maximum Subarray, Maximum Product Subarray, Binary Search, First and Last Position, Search in Rotated Sorted Array, Kth Largest Element, Running Sum, Find Pivot Index, Product of Array Except Self, Middle Index, Highest Altitude, Range Sum Query, Contains Duplicate, Majority Element, Unique Number of Occurrences |
+| 🗂️ Topic | 📊 Progress |  Problems Solved |
+|:----------|:-----------:|:-----------------|
+| **Array** | ✅ 25 | Two Sum II, Move Zeroes, Remove Duplicates, Remove Element, Squares of a Sorted Array, Valid Palindrome, Container With Most Water, Find Duplicate, Find Peak Element, Search Insert Position, Maximum Subarray, Maximum Product Subarray, Binary Search, Find First and Last Position, Search in Rotated Array, Kth Largest Element, Running Sum, Find Pivot Index, Product of Array Except Self, Find Middle Index, Find Highest Altitude, Range Sum Query, Contains Duplicate, Majority Element, Unique Number of Occurrences |
 | **String** | ✅ 8 | Reverse String, Reverse String II, Reverse Only Letters, Reverse Vowels, Roman to Integer, Valid Parentheses, Valid Palindrome,  Valid Anagram|
+## 🧩 Problem Progress
 | **Linked List (LL)** | 🚧 0 | Coming soon |
 | **Stack & Queue** | 🚧 0 | Coming soon |
 | **Tree** | 🚧 0 | Coming soon |
 | **Graph** | 🚧 0 | Coming soon |
+| **HashMap / HashSet** | ✅ 6 | Contains Duplicate, Majority Element, Unique Number of Occurrences, Longest Consecutive Sequence, Intersection of Two Arrays, Intersection of Two Arrays II |
+| **Prefix Sum / Cumulative Sum** | ✅ 6 | Running Sum, Find Pivot Index, Product of Array Except Self, Find Middle Index, Find Highest Altitude, Range Sum Query |
+| **Sliding Window** | ✅ 2 | Minimum Size Subarray Sum, Maximum Average Subarray |
+| **Greedy** | ✅ 3 | Maximum 69 Number, Best Time to Buy and Sell Stock, Best Time to Buy and Sell Stock II |
+| **Divide and Conquer** | ✅ 4 | Binary Search, Find First and Last Position, Search in Rotated Array, Kth Largest Element |
+| **Kadane’s Algorithm** | ✅ 2 | Maximum Subarray, Maximum Product Subarray |
+| **Bit Manipulation** | ✅ 1 | Single Number |
+| **Mathematical / Number Theory** | ✅ 2 | Missing Number, Palindrome Number |
 | **Dynamic Programming (DP)** | 🚧 0 | Coming soon |
+| **Iterative / Simulation** | ✅ 2 | Concatenation of Array, Check if Array Is Sorted and Rotated |
 
-```java
-| Technique / Pattern    | Typical Problems Solved                                                                          | Notes                                             |
-| :--------------------- | :----------------------------------------------------------------------------------------------- | :------------------------------------------------ |
-| **Two Pointers**       | Two Sum II, Move Zeroes, Reverse String, Valid Palindrome                                        | Efficient for arrays & strings with linear scans  |
-| **Sliding Window**     | Min Subarray Sum, Max Average Subarray, Longest Substring Without Repeating                      | Good for subarray/subsequence problems            |
-| **Kadane's Algorithm** | Maximum Subarray, Maximum Product Subarray                                                       | Handles max sum/product subarray problems in O(n) |
-| **Prefix Sum**         | Running Sum, Product of Array Except Self, Pivot Index, Range Sum Query                          | Useful for cumulative sum & subarray sum queries  |
-| **Divide and Conquer** | Binary Search, Search in Rotated Array, Kth Largest Element                                      | Reduces problem size recursively or iteratively   |
-| **Greedy**             | Best Time to Buy & Sell Stock, Maximum 69 Number, Roman to Integer                               | Make optimal local choice for global solution     |
-| **HashMap / HashSet**  | Contains Duplicate, Majority Element, Unique Number of Occurrences, Longest Consecutive Sequence | Frequency counting, uniqueness check              |
-| **Bit Manipulation**   | Single Number                                                                                    | XOR, AND, OR tricks for numbers                   |
-| **Mathematical**       | Missing Number, Palindrome Number                                                                | Formula-based or arithmetic logic                 |
-| **Iterative**          | Concatenation of Array, Check Sorted and Rotated                                                 | Step-by-step linear processing                    |
-```
 
 > 🧠 *Each file contains:*  
 > • Problem statement summary  
