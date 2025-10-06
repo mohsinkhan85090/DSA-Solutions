@@ -35,7 +35,20 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 | **Graph** | 🚧 0 | Coming soon |
 | **Dynamic Programming (DP)** | 🚧 0 | Coming soon |
 
-
+```java
+| Technique / Pattern    | Typical Problems Solved                                                                          | Notes                                             |
+| :--------------------- | :----------------------------------------------------------------------------------------------- | :------------------------------------------------ |
+| **Two Pointers**       | Two Sum II, Move Zeroes, Reverse String, Valid Palindrome                                        | Efficient for arrays & strings with linear scans  |
+| **Sliding Window**     | Min Subarray Sum, Max Average Subarray, Longest Substring Without Repeating                      | Good for subarray/subsequence problems            |
+| **Kadane's Algorithm** | Maximum Subarray, Maximum Product Subarray                                                       | Handles max sum/product subarray problems in O(n) |
+| **Prefix Sum**         | Running Sum, Product of Array Except Self, Pivot Index, Range Sum Query                          | Useful for cumulative sum & subarray sum queries  |
+| **Divide and Conquer** | Binary Search, Search in Rotated Array, Kth Largest Element                                      | Reduces problem size recursively or iteratively   |
+| **Greedy**             | Best Time to Buy & Sell Stock, Maximum 69 Number, Roman to Integer                               | Make optimal local choice for global solution     |
+| **HashMap / HashSet**  | Contains Duplicate, Majority Element, Unique Number of Occurrences, Longest Consecutive Sequence | Frequency counting, uniqueness check              |
+| **Bit Manipulation**   | Single Number                                                                                    | XOR, AND, OR tricks for numbers                   |
+| **Mathematical**       | Missing Number, Palindrome Number                                                                | Formula-based or arithmetic logic                 |
+| **Iterative**          | Concatenation of Array, Check Sorted and Rotated                                                 | Step-by-step linear processing                    |
+```
 
 > 🧠 *Each file contains:*  
 > • Problem statement summary  
