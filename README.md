@@ -23,16 +23,19 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 
 ## 🧩 Problem Progress
 
-| Topic | Solved | Example Files |
-|:-------|:-------:|:--------------|
-| **Array** | ✅ 25 | `Array&String/TwoSum.java`, `Array&String/MaxWaterContainer.java` |
-| **String** | ✅ 10 | `String/ReverseStringII.java`, `String/LongestSubstringWithoutRepeating.java` |
-| **HashMap / HashSet** | ✅ 6 | `Array&HashMap/UniqueNumberOfOccurrences.java` |
-| **Prefix Sum** | ✅ 6 | `Array&String/RunningSum.java`, `Array&String/ProductOfArrayExceptSelf.java` |
-| **Sliding Window** | ✅ 2 | `Array&String/MinSubarrayLen.java`, `Array&String/MaxAverageSubarray.java` |
-| **Greedy** | ✅ 3 | `Array&String/BestTimeToBuyAndSellStock.java` |
-| **Bit Manipulation** | ✅ 1 | `Array&String/SingleNumber.java` |
-| **Mathematical** | ✅ 2 | `Array&String/MissingNumber.java` |
+### 🧩 Problem Progress
+
+| 🗂️ Topic | 📊 Progress | 🧠 Problems |
+|:----------|:-----------:|:------------|
+| **Array** | ✅ 25 | Two Sum II, Move Zeroes, Remove Duplicates, Remove Element, Squares of a Sorted Array, Valid Palindrome, Container With Most Water, Find Duplicate, Find Peak Element, Search Insert Position, Maximum Subarray, Maximum Product Subarray, Binary Search, First and Last Position, Search in Rotated Sorted Array, Kth Largest Element, Running Sum, Find Pivot Index, Product of Array Except Self, Middle Index, Highest Altitude, Range Sum Query, Contains Duplicate, Majority Element, Unique Number of Occurrences |
+| **String** | ✅ 8 | Reverse String, Reverse String II, Reverse Only Letters, Reverse Vowels, Roman to Integer, Valid Parentheses, Valid Palindrome,  Valid Anagram|
+| **Linked List (LL)** | 🚧 0 | Coming soon |
+| **Stack & Queue** | 🚧 0 | Coming soon |
+| **Tree** | 🚧 0 | Coming soon |
+| **Graph** | 🚧 0 | Coming soon |
+| **Dynamic Programming (DP)** | 🚧 0 | Coming soon |
+
+
 
 > 🧠 *Each file contains:*  
 > • Problem statement summary  
