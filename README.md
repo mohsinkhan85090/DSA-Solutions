@@ -3,21 +3,6 @@
 Welcome to my personal **Data Structures & Algorithms (DSA)** repository, where I solve and document popular coding problems from platforms like **LeetCode** using **Java** (sometimes Python).  
 Each folder represents a DSA topic and contains **clean, optimized code** with clear logic and standard patterns.
 
----
-
-## 📚 Topics Covered
-
-| Category | Patterns | Example Problems |
-|:----------|:----------|:-----------------|
-| **Array & String** | Two Pointer, Sliding Window, Prefix Sum, Greedy, Divide & Conquer | Two Sum II, Move Zeroes, Kadane’s Algorithm, Binary Search |
-| **HashMap / HashSet** | Frequency Count, Uniqueness, Intersection | Contains Duplicate, Unique Occurrences, Longest Consecutive Sequence |
-| **String** | Reversal, Palindrome, Subsequence | Reverse String, Valid Parentheses, Longest Substring Without Repeating Characters |
-| **Linked List** | (Coming soon) | Reverse List, Detect Cycle, Merge Two Lists |
-| **Stack & Queue** | (Coming soon) | Valid Parentheses, Next Greater Element |
-| **Recursion & Backtracking** | (Coming soon) | Subsets, Permutations, N-Queens |
-| **Binary Search** | (Coming soon) | Search Insert Position, Find Peak Element |
-| **Dynamic Programming** | (Coming soon) | Fibonacci, Longest Common Subsequence |
-| **Graph / Tree** | (Coming soon) | BFS, DFS, Minimum Spanning Tree |
 
 ---
 
@@ -27,7 +12,6 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 |:----------|:-----------:|:-----------------|
 | **Array** | ✅ 25 | Two Sum II, Move Zeroes, Remove Duplicates, Remove Element, Squares of a Sorted Array, Valid Palindrome, Container With Most Water, Find Duplicate, Find Peak Element, Search Insert Position, Maximum Subarray, Maximum Product Subarray, Binary Search, Find First and Last Position, Search in Rotated Array, Kth Largest Element, Running Sum, Find Pivot Index, Product of Array Except Self, Find Middle Index, Find Highest Altitude, Range Sum Query, Contains Duplicate, Majority Element, Unique Number of Occurrences |
 | **String** | ✅ 8 | Reverse String, Reverse String II, Reverse Only Letters, Reverse Vowels, Roman to Integer, Valid Parentheses, Valid Palindrome,  Valid Anagram|
-## 🧩 Problem Progress
 | **Linked List (LL)** | 🚧 0 | Coming soon |
 | **Stack & Queue** | 🚧 0 | Coming soon |
 | **Tree** | 🚧 0 | Coming soon |
