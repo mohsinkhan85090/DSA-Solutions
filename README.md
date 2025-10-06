@@ -46,7 +46,7 @@ This repository is primarily for **personal learning** and growth.
 However, if you’d like to suggest **cleaner or more optimal solutions**, feel free to:
 1. Fork the repo  
 2. Add your improvement  
-3. Create a Pull Request 🚀  
+3. Create a Pull Request  
 
 ---
 
