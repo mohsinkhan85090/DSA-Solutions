@@ -11,7 +11,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 | 🗂️ Topic | 📊 Progress | Problems Solved |
 |-----------|------------|----------------|
 | Array | ✅ 25 | Two Sum II<br>Move Zeroes<br>Remove Duplicates<br>Remove Element<br>Squares of a Sorted Array<br>Valid Palindrome<br>Container With Most Water<br>Find Duplicate<br>Find Peak Element<br>Search Insert Position<br>Maximum Subarray<br>Maximum Product Subarray<br>Binary Search<br>Find First and Last Position<br>Search in Rotated Array<br>Kth Largest Element<br>Running Sum<br>Find Pivot Index<br>Product of Array Except Self<br>Find Middle Index<br>Find Highest Altitude<br>Range Sum Query<br>Contains Duplicate<br>Majority Element<br>Unique Number of Occurrences |
-| String | ✅ 8 | Reverse String<br>Reverse String II<br>Reverse Only Letters<br>Reverse Vowels<br>Roman to Integer<br>Valid Parentheses<br>Valid Palindrome<br>Valid Anagram<br>Find the Index of the First Occurrence in a String |
+| String | ✅ 9 | Reverse String<br>Reverse String II<br>Reverse Only Letters<br>Reverse Vowels<br>Roman to Integer<br>Valid Parentheses<br>Valid Palindrome<br>Valid Anagram<br>Find the Index of the First Occurrence in a String |
 | Linked List (LL) | 🚧 0 | Coming Soon |
 | Stack & Queue | 🚧 0 | Coming Soon |
 | Tree | 🚧 0 | Coming Soon |
