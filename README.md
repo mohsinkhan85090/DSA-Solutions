@@ -10,7 +10,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 
 | 🗂️ Topic | 📊 Progress | Problems Solved |
 |-----------|------------|----------------|
-| Array | ✅ 25 | Two Sum II<br>Move Zeroes<br>Remove Duplicates<br>Remove Element<br>Squares of a Sorted Array<br>Valid Palindrome<br>Container With Most Water<br>Find Duplicate<br>Find Peak Element<br>Search Insert Position<br>Maximum Subarray<br>Maximum Product Subarray<br>Binary Search<br>Find First and Last Position<br>Search in Rotated Array<br>Kth Largest Element<br>Running Sum<br>Find Pivot Index<br>Product of Array Except Self<br>Find Middle Index<br>Find Highest Altitude<br>Range Sum Query<br>Contains Duplicate<br>Majority Element<br>Unique Number of Occurrences |
+| Array | ✅ 25 | 1. Two Sum II<br>2. Move Zeroes<br>3. Remove Duplicates<br>4. Remove Element<br>5. Squares of a Sorted Array<br>6. Container With Most Water<br>7. Find Duplicate<br>8. Find Peak Element<br>9. Search Insert Position<br>10. Maximum Subarray<br>11. Maximum Product Subarray<br>12. Binary Search<br>13. Find First and Last Position<br>14. Search in Rotated Array<br>15.  Kth Largest Element<br>Running Sum<br>16. Find Pivot Index<br>17. Product of Array Except Self<br>18. Find Middle Index<br>19. Find Highest Altitude<br>20. Range Sum Query<br>21. Contains Duplicate<br>22. Majority Element<br>23. Unique Number of Occurrences |
 | String | ✅ 9 | Reverse String<br>Reverse String II<br>Reverse Only Letters<br>Reverse Vowels<br>Roman to Integer<br>Valid Parentheses<br>Valid Palindrome<br>Valid Anagram<br>Find the Index of the First Occurrence in a String |
 | Linked List (LL) | 🚧 0 | Coming Soon |
 | Stack & Queue | 🚧 0 | Coming Soon |
