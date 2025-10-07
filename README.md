@@ -58,5 +58,5 @@ However, if you’d like to suggest **cleaner or more optimal solutions**, feel 
 
 ---
 
-### 🧠 “Code. Learn. Repeat.”  
-Small consistent efforts lead to mastery — keep building 💪
+###  “Code. Learn. Repeat.”  
+Small consistent efforts lead to mastery — keep building 
