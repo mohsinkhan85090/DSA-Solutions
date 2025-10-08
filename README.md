@@ -26,6 +26,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 | Mathematical / Number Theory | ✅ 2 | 1. Missing Number<br>2. Palindrome Number |
 | Dynamic Programming (DP) | 🚧 0 | Coming Soon |
 | Iterative / Simulation | ✅ 2 |1. Concatenation of Array<br>2. Check if Array Is Sorted and Rotated |
+| Two-Pointer| ✅ 10 | 1. Container With Most water<br>2. find peak element<br>3. find duplicate number<br>4.move zeros<br>5. remove element<br>6.remove Duplicate<br>7. search insert position<br>8. squared of sorted array<br>9. Two Sum II<br>10. validpalindrome |
 
 ---
 
