@@ -1,17 +1,27 @@
 class Solution {
     public int firstUniqChar(String s) {
-        int count=0;
-        for (int i=0;i<s.length();i++)
+        for(int i=0;i<s.length();i++)
         {
-            for(int j=i+1;j<s.length();j++)
+            boolean unique = true;
+            for (int j=0;j<s.length();j++)
             {
-                if (s.charAt(i)==s.charAt(j))
+            if(i!= j &&s.charAt(i)==s.charAt(j))
             {
-                return i+j;
+                unique= false;
+                break;
             }
-
+            }
+            if (unique)
+            {
+                return i;
             }
             
+                
+
+           
+            
+
+
         }
         return -1;
         
