@@ -11,21 +11,21 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 | 🗂️ Topic | 📊 Progress | Problems Solved |
 |-----------|------------|----------------|
 | Array | ✅ 23 | 1. Two Sum II<br>2. Move Zeroes<br>3. Remove Duplicates<br>4. Remove Element<br>5. Squares of a Sorted Array<br>6. Container With Most Water<br>7. Find Duplicate<br>8. Find Peak Element<br>9. Search Insert Position<br>10. Maximum Subarray<br>11. Maximum Product Subarray<br>12. Binary Search<br>13. Find First and Last Position<br>14. Search in Rotated Array<br>15.  Kth Largest Element<br>16. Find Pivot Index<br>17. Product of Array Except Self<br>18. Find Middle Index<br>19. Find Highest Altitude<br>20. Range Sum Query<br>21. Contains Duplicate<br>22. Majority Element<br>23. Unique Number of Occurrences |
-| String | ✅ 9 | 1. Reverse String<br>2. Reverse String II<br>3. Reverse Only Letters<br>4. Reverse Vowels<br>5. Roman to Integer<br>6. Valid Parentheses<br>7. Valid Palindrome<br>8. Valid Anagram<br>9. Find the Index of the First Occurrence in a String<br>10. Is Subsequence |
+| String | ✅ 10 | 1. Reverse String<br>2. Reverse String II<br>3. Reverse Only Letters<br>4. Reverse Vowels<br>5. Roman to Integer<br>6. Valid Parentheses<br>7. Valid Palindrome<br>8. Valid Anagram<br>9. Find the Index of the First Occurrence in a String<br>10. Is Subsequence |
 | Linked List (LL) | 🚧 0 | Coming Soon |
 | Stack & Queue | 🚧 0 | Coming Soon |
 | Tree | 🚧 0 | Coming Soon |
 | Graph | 🚧 0 | Coming Soon |
-| HashMap / HashSet | ✅ 6 | Contains Duplicate<br>Majority Element<br>Unique Number of Occurrences<br>Longest Consecutive Sequence<br>Intersection of Two Arrays<br>Intersection of Two Arrays II |
-| Prefix Sum / Cumulative Sum | ✅ 6 | Running Sum<br>Find Pivot Index<br>Product of Array Except Self<br>Find Middle Index<br>Find Highest Altitude<br>Range Sum Query |
-| Sliding Window | ✅ 2 | Minimum Size Subarray Sum<br>Maximum Average Subarray |
-| Greedy | ✅ 3 | Maximum 69 Number<br>Best Time to Buy and Sell Stock<br>Best Time to Buy and Sell Stock II |
-| Divide and Conquer | ✅ 4 | Binary Search<br>Find First and Last Position<br>Search in Rotated Array<br>Kth Largest Element |
-| Kadane’s Algorithm | ✅ 2 | Maximum Subarray<br>Maximum Product Subarray |
-| Bit Manipulation | ✅ 1 | Single Number |
-| Mathematical / Number Theory | ✅ 2 | Missing Number<br>Palindrome Number |
+| HashMap / HashSet | ✅ 6 | 1. Contains Duplicate<br>1. Majority Element<br>3. Unique Number of Occurrences<br>4. Longest Consecutive Sequence<br>5. Intersection of Two Arrays<br>6. Intersection of Two Arrays II |
+| Prefix Sum / Cumulative Sum | ✅ 7 | 1. Running Sum<br>2. Find Pivot Index<br>3. Product of Array Except Self<br>4. Find Middle Index<br>6. Find Highest Altitude<br>7.Range Sum Query |
+| Sliding Window | ✅ 2 |1. Minimum Size Subarray Sum<br>2. Maximum Average Subarray |
+| Greedy | ✅ 3 | 1. Maximum 69 Number<br>2. Best Time to Buy and Sell Stock<br>3. Best Time to Buy and Sell Stock II |
+| Divide and Conquer | ✅ 4 | 1. Binary Search<br>2. Find First and Last Position<br>3. Search in Rotated Array<br>4. Kth Largest Element |
+| Kadane’s Algorithm | ✅ 2 | 1. Maximum Subarray<br>2. Maximum Product Subarray |
+| Bit Manipulation | ✅ 1 | 1. Single Number |
+| Mathematical / Number Theory | ✅ 2 | 1. Missing Number<br>2. Palindrome Number |
 | Dynamic Programming (DP) | 🚧 0 | Coming Soon |
-| Iterative / Simulation | ✅ 2 | Concatenation of Array<br>Check if Array Is Sorted and Rotated |
+| Iterative / Simulation | ✅ 2 |1. Concatenation of Array<br>2. Check if Array Is Sorted and Rotated |
 
 ---
 
