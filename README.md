@@ -2,6 +2,7 @@
 
 Welcome to my personal **Data Structures & Algorithms (DSA)** repository, where I solve and document popular coding problems from platforms like **LeetCode** using **Java** (sometimes Python).  
 Each folder represents a DSA topic and contains **clean, optimized code** with clear logic and standard patterns.  
+
 ## 🔹 Problems Solved — Side by Side
 
 | Array (45) | String (19) | Linked List (0) |
@@ -71,7 +72,89 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 18. Find Words Containing Character  
 19. Rotate String
 </details> | <details><summary>Click to expand</summary>
-Comi
+Coming Soon
+</details> |
+
+| Stack & Queue (0) | Tree (0) | Graph (0) |
+|-----------------|----------|-----------|
+| <details><summary>Click to expand</summary>
+Coming Soon
+</details> | <details><summary>Click to expand</summary>
+Coming Soon
+</details> | <details><summary>Click to expand</summary>
+Coming Soon
+</details> |
+
+| HashMap / HashSet (7) | Prefix Sum / Cumulative Sum (7) | Sliding Window (3) |
+|----------------------|----------------------------|------------------|
+| <details><summary>Click to expand</summary>
+1. Contains Duplicate  
+2. Majority Element  
+3. Unique Number of Occurrences  
+4. Longest Consecutive Sequence  
+5. Intersection of Two Arrays  
+6. Intersection of Two Arrays II  
+7. Find Duplicate
+</details> | <details><summary>Click to expand</summary>
+1. Running Sum  
+2. Find Pivot Index  
+3. Product of Array Except Self  
+4. Find Middle Index  
+5. Find Highest Altitude  
+6. Range Sum Query
+</details> | <details><summary>Click to expand</summary>
+1. Minimum Size Subarray Sum  
+2. Maximum Average Subarray  
+3. Longest Substring Without Repeating Characters
+</details> |
+
+| Greedy (3) | Divide & Conquer (4) | Kadane’s Algorithm (2) |
+|------------|--------------------|----------------------|
+| <details><summary>Click to expand</summary>
+1. Maximum 69 Number  
+2. Best Time to Buy and Sell Stock  
+3. Best Time to Buy and Sell Stock II
+</details> | <details><summary>Click to expand</summary>
+1. Binary Search  
+2. Find First and Last Position  
+3. Search in Rotated Array  
+4. Kth Largest Element
+</details> | <details><summary>Click to expand</summary>
+1. Maximum Subarray  
+2. Maximum Product Subarray
+</details> |
+
+| Bit Manipulation (1) | Mathematical / Number Theory (2) | Dynamic Programming (0) |
+|--------------------|------------------------|--------------------------|
+| <details><summary>Click to expand</summary>
+1. Single Number
+</details> | <details><summary>Click to expand</summary>
+1. Missing Number  
+2. Palindrome Number
+</details> | <details><summary>Click to expand</summary>
+Coming Soon
+</details> |
+
+| Iterative / Simulation (3) | Two-Pointer (11) |
+|----------------------------|----------------|
+| <details><summary>Click to expand</summary>
+1. Concatenation of Array  
+2. Check if Array is Sorted and Rotated  
+3. FizzBuzz
+</details> | <details><summary>Click to expand</summary>
+1. Container With Most Water  
+2. Find Peak Element  
+3. Find Duplicate Number  
+4. Move Zeros  
+5. Remove Element  
+6. Remove Duplicate  
+7. Search Insert Position  
+8. Squares of Sorted Array  
+9. Two Sum II  
+10. Valid Palindrome  
+11. Trapping Rain Water
+</details> |
+
 
 ---
 ## 🧩 Problem Progress
