@@ -18,7 +18,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 | Graph | 🚧 0 | Coming Soon |
 | HashMap / HashSet | ✅ 7 | 1. Contains Duplicate<br>1. Majority Element<br>3. Unique Number of Occurrences<br>4. Longest Consecutive Sequence<br>5. Intersection of Two Arrays<br>6. Intersection of Two Arrays II<br>7. Find duplicate |
 | Prefix Sum / Cumulative Sum | ✅ 7 | 1. Running Sum<br>2. Find Pivot Index<br>3. Product of Array Except Self<br>4. Find Middle Index<br>6. Find Highest Altitude<br>7.Range Sum Query |
-| Sliding Window | ✅ 2 |1. Minimum Size Subarray Sum<br>2. Maximum Average Subarray |
+| Sliding Window | ✅ 3 |1. Minimum Size Subarray Sum<br>2. Maximum Average Subarray<br>3. Longest Substring without repeating character |
 | Greedy | ✅ 3 | 1. Maximum 69 Number<br>2. Best Time to Buy and Sell Stock<br>3. Best Time to Buy and Sell Stock II |
 | Divide and Conquer | ✅ 4 | 1. Binary Search<br>2. Find First and Last Position<br>3. Search in Rotated Array<br>4. Kth Largest Element |
 | Kadane’s Algorithm | ✅ 2 | 1. Maximum Subarray<br>2. Maximum Product Subarray |
