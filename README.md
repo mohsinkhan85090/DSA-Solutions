@@ -32,7 +32,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 
 ---
 
-## 🔹 Problems Solved
+##  Problems Solved
 
 ### **Array Problems (45)**
 <details>
@@ -84,7 +84,6 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 
 </details>
 
----
 
 ### **String Problems (19)**
 <details>
@@ -112,8 +111,6 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 
 </details>
 
----
-
 ### **Linked List (0)**
 <details>
 <summary>Click to expand</summary>
@@ -128,7 +125,6 @@ Coming Soon
 Coming Soon  
 </details>
 
----
 
 ### **Tree (0)**
 <details>
@@ -136,7 +132,7 @@ Coming Soon
 Coming Soon  
 </details>
 
----
+
 
 ### **Graph (0)**
 <details>
@@ -144,7 +140,7 @@ Coming Soon
 Coming Soon  
 </details>
 
----
+
 
 ### **HashMap / HashSet (7)**
 <details>
@@ -160,7 +156,6 @@ Coming Soon
 
 </details>
 
----
 
 ### **Prefix Sum / Cumulative Sum (7)**
 <details>
@@ -175,7 +170,6 @@ Coming Soon
 
 </details>
 
----
 
 ### **Sliding Window (3)**
 <details>
@@ -187,7 +181,6 @@ Coming Soon
 
 </details>
 
----
 
 ### **Greedy (3)**
 <details>
@@ -199,7 +192,7 @@ Coming Soon
 
 </details>
 
----
+
 
 ### **Divide and Conquer (4)**
 <details>
@@ -212,7 +205,7 @@ Coming Soon
 
 </details>
 
----
+
 
 ### **Kadane’s Algorithm (2)**
 <details>
@@ -223,7 +216,7 @@ Coming Soon
 
 </details>
 
----
+
 
 ### **Bit Manipulation (1)**
 <details>
@@ -233,7 +226,7 @@ Coming Soon
 
 </details>
 
----
+
 
 ### **Mathematical / Number Theory (2)**
 <details>
@@ -244,7 +237,7 @@ Coming Soon
 
 </details>
 
----
+
 
 ### **Dynamic Programming (0)**
 <details>
@@ -252,7 +245,7 @@ Coming Soon
 Coming Soon  
 </details>
 
----
+
 
 ### **Iterative / Simulation (3)**
 <details>
@@ -264,7 +257,6 @@ Coming Soon
 
 </details>
 
----
 
 ### **Two-Pointer (11)**
 <details>
