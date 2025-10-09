@@ -27,6 +27,35 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 | Iterative / Simulation | ✅ 3 | See below |
 | Two-Pointer | ✅ 11 | See below |
 
+
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+
+<!-- Array Card -->
+<div style="border:1px solid #4CAF50; border-radius:8px; padding:10px; width:250px; background:#f0fff0;">
+  <h3>Array (45)</h3>
+  <p style="font-size:14px; line-height:1.4;">
+    Two Sum, Two Sum II, Remove Duplicates, Remove Element, Squares of a Sorted Array, Container With Most Water, Find Duplicate, Find Peak Element, Search Insert Position, Maximum Subarray, Maximum Product Subarray, Binary Search, Find First and Last Position, Search in Rotated Array, Kth Largest Element, Find Pivot Index, Product of Array Except Self, Find Middle Index, Find Highest Altitude, Range Sum Query, Contains Duplicate, Majority Element, Unique Number of Occurrences, Best Time to Buy and Sell Stock, Best Time to Buy and Sell Stock II, Check if Array is Sorted and Rotated, Concatenation of Array, Intersection of Two Arrays, Intersection of Two Arrays II, Longest Consecutive Sequence, Max 69 Number, Maximum Average Subarray, Minimum Size Subarray Sum, Missing Number, Palindrome Number, Running Sum, Single Number, Subarray Sum Equals K, Find Duplicate Number in an Array, Rotate Array, Move Zeros, Maximum Product of Three Numbers, Trapping Rain Water
+  </p>
+</div>
+
+<!-- String Card -->
+<div style="border:1px solid #2196F3; border-radius:8px; padding:10px; width:250px; background:#f0f8ff;">
+  <h3>String (19)</h3>
+  <p style="font-size:14px; line-height:1.4;">
+    Reverse String, Reverse String II, Reverse Only Letters, Reverse Vowels, Roman to Integer, Valid Parentheses, Valid Palindrome, Valid Anagram, Find the Index of the First Occurrence in a String, Is Subsequence, Check If Two String Arrays are Equivalent, Longest Substring Without Repeating Characters, Longest Common Prefix, First Unique Character in a String, Find the Difference, To Lower Case, FizzBuzz, Find Words Containing Character, Rotate String
+  </p>
+</div>
+
+<!-- HashMap / HashSet Card -->
+<div style="border:1px solid #FF9800; border-radius:8px; padding:10px; width:250px; background:#fff8e1;">
+  <h3>HashMap / HashSet (7)</h3>
+  <p style="font-size:14px; line-height:1.4;">
+    Contains Duplicate, Majority Element, Unique Number of Occurrences, Longest Consecutive Sequence, Intersection of Two Arrays, Intersection of Two Arrays II, Find Duplicate
+  </p>
+</div>
+
+</div>
+
 ---
 
 ## 🔹 Problems Solved
