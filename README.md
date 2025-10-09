@@ -32,7 +32,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 
 ---
 
-##  Problems Solved
+##  Problems Description
 
 ### **Array Problems (45)**
 <details>
