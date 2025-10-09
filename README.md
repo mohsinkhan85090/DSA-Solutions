@@ -3,35 +3,6 @@
 Welcome to my personal **Data Structures & Algorithms (DSA)** repository, where I solve and document popular coding problems from platforms like **LeetCode** using **Java** (sometimes Python).  
 Each folder represents a DSA topic and contains **clean, optimized code** with clear logic and standard patterns.  
 
-<div style="display:flex; flex-wrap: wrap; gap: 10px;">
-
-<div style="border:1px solid #ccc; padding:10px; width:30%;">
-<h3>Array (45)</h3>
-<ul>
-<li>Two Sum</li>
-<li>Two Sum II</li>
-<li>Remove Duplicates</li>
-<li>Remove Element</li>
-<!-- add all 45 -->
-</ul>
-</div>
-
-<div style="border:1px solid #ccc; padding:10px; width:30%;">
-<h3>String (19)</h3>
-<ul>
-<li>Reverse String</li>
-<li>Reverse String II</li>
-<li>Reverse Only Letters</li>
-<!-- add all 19 -->
-</ul>
-</div>
-
-<div style="border:1px solid #ccc; padding:10px; width:30%;">
-<h3>Linked List (0)</h3>
-<p>Coming Soon</p>
-</div>
-
-</div>
 
 
 ---
