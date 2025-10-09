@@ -98,4 +98,217 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 9. Find the Index of the First Occurrence in a String  
 10. Is Subsequence  
 11. Check If Two String Arrays are Equivalent  
-12. Longest Substring Without Repeating Characters
+12. Longest Substring Without Repeating Characters  
+13. Longest Common Prefix  
+14. First Unique Character in a String  
+15. Find the Difference  
+16. To Lower Case  
+17. FizzBuzz  
+18. Find Words Containing Character  
+19. Rotate String  
+
+</details>
+
+---
+
+### **Linked List (0)**
+<details>
+<summary>Click to expand</summary>
+Coming Soon  
+</details>
+
+---
+
+### **Stack & Queue (0)**
+<details>
+<summary>Click to expand</summary>
+Coming Soon  
+</details>
+
+---
+
+### **Tree (0)**
+<details>
+<summary>Click to expand</summary>
+Coming Soon  
+</details>
+
+---
+
+### **Graph (0)**
+<details>
+<summary>Click to expand</summary>
+Coming Soon  
+</details>
+
+---
+
+### **HashMap / HashSet (7)**
+<details>
+<summary>Click to expand</summary>
+
+1. Contains Duplicate  
+2. Majority Element  
+3. Unique Number of Occurrences  
+4. Longest Consecutive Sequence  
+5. Intersection of Two Arrays  
+6. Intersection of Two Arrays II  
+7. Find Duplicate  
+
+</details>
+
+---
+
+### **Prefix Sum / Cumulative Sum (7)**
+<details>
+<summary>Click to expand</summary>
+
+1. Running Sum  
+2. Find Pivot Index  
+3. Product of Array Except Self  
+4. Find Middle Index  
+5. Find Highest Altitude  
+6. Range Sum Query  
+
+</details>
+
+---
+
+### **Sliding Window (3)**
+<details>
+<summary>Click to expand</summary>
+
+1. Minimum Size Subarray Sum  
+2. Maximum Average Subarray  
+3. Longest Substring Without Repeating Characters  
+
+</details>
+
+---
+
+### **Greedy (3)**
+<details>
+<summary>Click to expand</summary>
+
+1. Maximum 69 Number  
+2. Best Time to Buy and Sell Stock  
+3. Best Time to Buy and Sell Stock II  
+
+</details>
+
+---
+
+### **Divide and Conquer (4)**
+<details>
+<summary>Click to expand</summary>
+
+1. Binary Search  
+2. Find First and Last Position  
+3. Search in Rotated Array  
+4. Kth Largest Element  
+
+</details>
+
+---
+
+### **Kadane’s Algorithm (2)**
+<details>
+<summary>Click to expand</summary>
+
+1. Maximum Subarray  
+2. Maximum Product Subarray  
+
+</details>
+
+---
+
+### **Bit Manipulation (1)**
+<details>
+<summary>Click to expand</summary>
+
+1. Single Number  
+
+</details>
+
+---
+
+### **Mathematical / Number Theory (2)**
+<details>
+<summary>Click to expand</summary>
+
+1. Missing Number  
+2. Palindrome Number  
+
+</details>
+
+---
+
+### **Dynamic Programming (0)**
+<details>
+<summary>Click to expand</summary>
+Coming Soon  
+</details>
+
+---
+
+### **Iterative / Simulation (3)**
+<details>
+<summary>Click to expand</summary>
+
+1. Concatenation of Array  
+2. Check if Array is Sorted and Rotated  
+3. FizzBuzz  
+
+</details>
+
+---
+
+### **Two-Pointer (11)**
+<details>
+<summary>Click to expand</summary>
+
+1. Container With Most Water  
+2. Find Peak Element  
+3. Find Duplicate Number  
+4. Move Zeros  
+5. Remove Element  
+6. Remove Duplicate  
+7. Search Insert Position  
+8. Squares of Sorted Array  
+9. Two Sum II  
+10. Valid Palindrome  
+11. Trapping Rain Water  
+
+</details>
+
+---
+
+## ⚙️ Tech Stack
+
+- **Language:** Java (Primary), Python (for quick tests)  
+- **Patterns:** Sliding Window, Binary Search, Hashing, Two Pointers, Kadane’s, DP, Greedy, etc.  
+- **Platform:** LeetCode  
+- **Editor:** VS Code  
+
+---
+
+## 💬 Contribution
+
+This repository is primarily for **personal learning** and growth.  
+However, if you’d like to suggest **cleaner or more optimal solutions**, feel free to:  
+1. Fork the repo  
+2. Add your improvement  
+3. Create a Pull Request  
+
+---
+
+## 👨‍💻 Author
+
+**Mohsin Khan**  
+📍 Kanpur, India  
+🔗 [GitHub](https://github.com/mohsinkhan85090) • [LeetCode](https://leetcode.com/u/mohsin85090) • [LinkedIn](https://linkedin.com/in/mohsin-khan-aiml)
+
+---
+
+### “Code. Learn. Repeat.”  
+Small consistent efforts lead to mastery — keep building.  
