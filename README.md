@@ -4,6 +4,28 @@ Welcome to my personal **Data Structures & Algorithms (DSA)** repository, where 
 Each folder represents a DSA topic and contains **clean, optimized code** with clear logic and standard patterns.  
 
 ---
+## 🔹 Problems Solved — Table Format
+
+| Array (45) | String (19) | HashMap / HashSet (7) |
+|------------|------------|----------------------|
+| Two Sum<br>Two Sum II<br>Remove Duplicates<br>Remove Element<br>Squares of a Sorted Array<br>Container With Most Water<br>Find Duplicate<br>Find Peak Element<br>Search Insert Position<br>Maximum Subarray<br>Maximum Product Subarray<br>Binary Search<br>Find First and Last Position<br>Search in Rotated Array<br>Kth Largest Element<br>Find Pivot Index<br>Product of Array Except Self<br>Find Middle Index<br>Find Highest Altitude<br>Range Sum Query<br>Contains Duplicate<br>Majority Element<br>Unique Number of Occurrences<br>Best Time to Buy and Sell Stock<br>Best Time to Buy and Sell Stock II<br>Check if Array is Sorted and Rotated<br>Concatenation of Array<br>Intersection of Two Arrays<br>Intersection of Two Arrays II<br>Longest Consecutive Sequence<br>Max 69 Number<br>Maximum Average Subarray<br>Minimum Size Subarray Sum<br>Missing Number<br>Palindrome Number<br>Running Sum<br>Single Number<br>Subarray Sum Equals K<br>Find Duplicate Number in an Array<br>Rotate Array<br>Move Zeros<br>Maximum Product of Three Numbers<br>Trapping Rain Water | Reverse String<br>Reverse String II<br>Reverse Only Letters<br>Reverse Vowels<br>Roman to Integer<br>Valid Parentheses<br>Valid Palindrome<br>Valid Anagram<br>Find the Index of the First Occurrence in a String<br>Is Subsequence<br>Check If Two String Arrays are Equivalent<br>Longest Substring Without Repeating Characters<br>Longest Common Prefix<br>First Unique Character in a String<br>Find the Difference<br>To Lower Case<br>FizzBuzz<br>Find Words Containing Character<br>Rotate String | Contains Duplicate<br>Majority Element<br>Unique Number of Occurrences<br>Longest Consecutive Sequence<br>Intersection of Two Arrays<br>Intersection of Two Arrays II<br>Find Duplicate |
+
+| Prefix Sum / Cumulative Sum (7) | Sliding Window (3) | Greedy (3) |
+|----------------|------------------|------------|
+| Running Sum<br>Find Pivot Index<br>Product of Array Except Self<br>Find Middle Index<br>Find Highest Altitude<br>Range Sum Query | Minimum Size Subarray Sum<br>Maximum Average Subarray<br>Longest Substring Without Repeating Characters | Maximum 69 Number<br>Best Time to Buy and Sell Stock<br>Best Time to Buy and Sell Stock II |
+
+| Divide & Conquer (4) | Kadane’s Algorithm (2) | Bit Manipulation (1) |
+|--------------------|----------------------|--------------------|
+| Binary Search<br>Find First and Last Position<br>Search in Rotated Array<br>Kth Largest Element | Maximum Subarray<br>Maximum Product Subarray | Single Number |
+
+| Mathematical / Number Theory (2) | Iterative / Simulation (3) | Two-Pointer (11) |
+|------------------------|----------------------------|----------------|
+| Missing Number<br>Palindrome Number | Concatenation of Array<br>Check if Array is Sorted and Rotated<br>FizzBuzz | Container With Most Water<br>Find Peak Element<br>Find Duplicate Number<br>Move Zeros<br>Remove Element<br>Remove Duplicate<br>Search Insert Position<br>Squares of Sorted Array<br>Two Sum II<br>Valid Palindrome<br>Trapping Rain Water |
+
+| Linked List (0) | Stack & Queue (0) | Tree (0) | Graph (0) | Dynamic Programming (0) |
+|----------------|-----------------|-----------|-----------|--------------------------|
+| Coming Soon | Coming Soon | Coming Soon | Coming Soon | Coming Soon |
+
 
 ## 🧩 Problem Progress
 
