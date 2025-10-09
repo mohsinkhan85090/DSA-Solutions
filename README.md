@@ -1,8 +1,7 @@
 # 📈 DSA — My Data Structures & Algorithms Journey in Java  
 
 Welcome to my personal **Data Structures & Algorithms (DSA)** repository, where I solve and document popular coding problems from platforms like **LeetCode** using **Java** (sometimes Python).  
-Each folder represents a DSA topic and contains **clean, optimized code** with clear logic and standard patterns.
-
+Each folder represents a DSA topic and contains **clean, optimized code** with clear logic and standard patterns.  
 
 ---
 
@@ -10,7 +9,80 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 
 | 🗂️ Topic | 📊 Progress | Problems Solved |
 |-----------|------------|----------------|
-| Array | ✅ 45 | 1. Two Sum <br>2. Two Sum II<br>3. Remove Duplicates<br>4. Remove Element<br>5. Squares of a Sorted Array<br>6. Container With Most Water<br>7. Find Duplicate<br>8. Find Peak Element<br>9. Search Insert Position<br>10. Maximum Subarray<br>11. Maximum Product Subarray<br>12. Binary Search<br>13. Find First and Last Position<br>14. Search in Rotated Array<br>15.  Kth Largest Element<br>16. Find Pivot Index<br>17. Product of Array Except Self<br>18. Find Middle Index<br>19. Find Highest Altitude<br>20. Range Sum Query<br>21. Contains Duplicate<br>22. Majority Element<br>23. Unique Number of Occurrences<br>24.besttimetobuyandsellstock<br>25. besttimetobuyandsellstockII<br>26.checkifarrayissortedandrotated<br>27. concatination of Array<br>28. container with most water<br>29.find duplicatenumber<br> 30. Intersection of two array<br>31. Intersection of two arrayII<br>32. Longest Consequtive sequence<br>33. Max69number<br>34. maximum Average Subarray<br>35. minimum size subarray sum<br>36. missing number<br>37. palindrome number<br>38. Running sum<br>39. single number<br>40. Subarray Sum Equals K<br>41. Find duplicates number in an array<br>42. Rotate Array<br>43. Move zeros<br>44. Maximum Product of Three Numbers<br>45. Trapping Rain Water |
+| Array | ✅ 45 | See below |
+| String | ✅ 19 | See below |
+| Linked List | 🚧 0 | Coming Soon |
+| Stack & Queue | 🚧 0 | Coming Soon |
+| Tree | 🚧 0 | Coming Soon |
+| Graph | 🚧 0 | Coming Soon |
+| HashMap / HashSet | ✅ 7 | See below |
+| Prefix Sum / Cumulative Sum | ✅ 7 | See below |
+| Sliding Window | ✅ 3 | See below |
+| Greedy | ✅ 3 | See below |
+| Divide and Conquer | ✅ 4 | See below |
+| Kadane’s Algorithm | ✅ 2 | See below |
+| Bit Manipulation | ✅ 1 | See below |
+| Mathematical / Number Theory | ✅ 2 | See below |
+| Dynamic Programming (DP) | 🚧 0 | Coming Soon |
+| Iterative / Simulation | ✅ 3 | See below |
+| Two-Pointer | ✅ 11 | See below |
+
+---
+
+## 🔹 Problems Solved
+
+### **Array Problems (45)**
+<details>
+<summary>Click to expand</summary>
+
+1. Two Sum  
+2. Two Sum II  
+3. Remove Duplicates  
+4. Remove Element  
+5. Squares of a Sorted Array  
+6. Container With Most Water  
+7. Find Duplicate  
+8. Find Peak Element  
+9. Search Insert Position  
+10. Maximum Subarray  
+11. Maximum Product Subarray  
+12. Binary Search  
+13. Find First and Last Position  
+14. Search in Rotated Array  
+15. Kth Largest Element  
+16. Find Pivot Index  
+17. Product of Array Except Self  
+18. Find Middle Index  
+19. Find Highest Altitude  
+20. Range Sum Query  
+21. Contains Duplicate  
+22. Majority Element  
+23. Unique Number of Occurrences  
+24. Best Time to Buy and Sell Stock  
+25. Best Time to Buy and Sell Stock II  
+26. Check if Array is Sorted and Rotated  
+27. Concatenation of Array  
+28. Intersection of Two Arrays  
+29. Intersection of Two Arrays II  
+30. Longest Consecutive Sequence  
+31. Max 69 Number  
+32. Maximum Average Subarray  
+33. Minimum Size Subarray Sum  
+34. Missing Number  
+35. Palindrome Number  
+36. Running Sum  
+37. Single Number  
+38. Subarray Sum Equals K  
+39. Find Duplicate Number in an Array  
+40. Rotate Array  
+41. Move Zeros  
+42. Maximum Product of Three Numbers  
+43. Trapping Rain Water  
+
+</details>
+
+---
+
 ### **String Problems (19)**
 <details>
 <summary>Click to expand</summary>
@@ -26,64 +98,4 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 9. Find the Index of the First Occurrence in a String  
 10. Is Subsequence  
 11. Check If Two String Arrays are Equivalent  
-12. Longest Substring Without Repeating Characters  
-13. Longest Common Prefix  
-14. First Unique Character in a String  
-15. Find the Difference  
-16. To Lower Case  
-17. FizzBuzz  
-18. Find Words Containing Character  
-19. Rotate String  
-
-</details>
-
-| String | ✅ 19  | 1. Reverse String<br>2. Reverse String II<br>3. Reverse Only Letters<br>4. Reverse Vowels<br>5. Roman to Integer<br>6. Valid Parentheses<br>7. Valid Palindrome<br>8. Valid Anagram<br>9. Find the Index of the First Occurrence in a String<br>10. Is Subsequence<br>11. Check If Two String Arrays are Equivalent<br>12. Longest Substring Without Repeating Characters<br>13. Longest Common Prefix<br>14. First Unique Character in a String<br>15. Find the Difference<br>16. To Lower Case<br>17. FizzBuzz<br>18. Find Words Containing Character<br>19. Rotate String |
-| Linked List (LL) | 🚧 0 | Coming Soon |
-| Stack & Queue | 🚧 0 | Coming Soon |
-| Tree | 🚧 0 | Coming Soon |
-| Graph | 🚧 0 | Coming Soon |
-| HashMap / HashSet | ✅ 7 | 1. Contains Duplicate<br>1. Majority Element<br>3. Unique Number of Occurrences<br>4. Longest Consecutive Sequence<br>5. Intersection of Two Arrays<br>6. Intersection of Two Arrays II<br>7. Find duplicate |
-| Prefix Sum / Cumulative Sum | ✅ 7 | 1. Running Sum<br>2. Find Pivot Index<br>3. Product of Array Except Self<br>4. Find Middle Index<br>6. Find Highest Altitude<br>7.Range Sum Query |
-| Sliding Window | ✅ 3 |1. Minimum Size Subarray Sum<br>2. Maximum Average Subarray<br>3. Longest Substring without repeating character |
-| Greedy | ✅ 3 | 1. Maximum 69 Number<br>2. Best Time to Buy and Sell Stock<br>3. Best Time to Buy and Sell Stock II |
-| Divide and Conquer | ✅ 4 | 1. Binary Search<br>2. Find First and Last Position<br>3. Search in Rotated Array<br>4. Kth Largest Element |
-| Kadane’s Algorithm | ✅ 2 | 1. Maximum Subarray<br>2. Maximum Product Subarray |
-| Bit Manipulation | ✅ 1 | 1. Single Number |
-| Mathematical / Number Theory | ✅ 2 | 1. Missing Number<br>2. Palindrome Number |
-| Dynamic Programming (DP) | 🚧 0 | Coming Soon |
-| Iterative / Simulation | ✅ 3 |1. Concatenation of Array<br>2. Check if Array Is Sorted and Rotated<br>3. FizzBuzz |
-| Two-Pointer| ✅ 11 | 1. Container With Most water<br>2. find peak element<br>3. find duplicate number<br>4.move zeros<br>5. remove element<br>6.remove Duplicate<br>7. search insert position<br>8. squared of sorted array<br>9. Two Sum II<br>10. validpalindrome1<br>11. Trapping Rain Water |
-
----
-
-## ⚙️ Tech Stack
-
-- **Language:** Java (Primary), Python (for quick tests)  
-- **Patterns:** Sliding Window, Binary Search, Hashing, Two Pointers, Kadane’s, etc.  
-- **Platform:** LeetCode  
-- **Editor:** VS Code  
-
-
-
----
-
-## 💬 Contribution
-
-This repository is primarily for **personal learning** and growth.  
-However, if you’d like to suggest **cleaner or more optimal solutions**, feel free to:
-1. Fork the repo  
-2. Add your improvement  
-3. Create a Pull Request  
-
----
-
-## 👨‍💻 Author
-
-**Mohsin Khan**  
-📍 Kanpur, India  
-🔗 [GitHub](https://github.com/mohsinkhan85090) • [LeetCode](https://leetcode.com/u/mohsin85090) • [LinkedIn](https://linkedin.com/in/mohsin-khan-aiml)
-
----
-
-###  “Code. Learn. Repeat.”  
-Small consistent efforts lead to mastery — keep building 
+12. Longest Substring Without Repeating Characters
