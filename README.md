@@ -11,7 +11,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 | 🗂️ Topic | 📊 Progress | Problems Solved |
 |-----------|------------|----------------|
 | Array | ✅ 45 | See below |
-| String | ✅ 19 | See below |
+| String | ✅ 20 | See below |
 | Linked List | 🚧 0 | Coming Soon |
 | Stack & Queue | 🚧 0 | Coming Soon |
 | Tree | 🚧 0 | Coming Soon |
@@ -85,7 +85,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 </details>
 
 
-### **String Problems (19)**
+### **String Problems (20)**
 <details>
 <summary>Click to expand</summary>
 
@@ -107,7 +107,8 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 16. To Lower Case  
 17. FizzBuzz  
 18. Find Words Containing Character  
-19. Rotate String  
+19. Rotate String
+20. Group Anagrams
 
 </details>
 
