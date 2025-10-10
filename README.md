@@ -16,7 +16,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 | Stack & Queue | 🚧 0 | Coming Soon |
 | Tree | 🚧 0 | Coming Soon |
 | Graph | 🚧 0 | Coming Soon |
-| HashMap / HashSet | ✅ 7 | See below |
+| HashMap / HashSet | ✅ 8 | See below |
 | Prefix Sum / Cumulative Sum | ✅ 7 | See below |
 | Sliding Window | ✅ 3 | See below |
 | Greedy | ✅ 3 | See below |
@@ -152,7 +152,8 @@ Coming Soon
 4. Longest Consecutive Sequence  
 5. Intersection of Two Arrays  
 6. Intersection of Two Arrays II  
-7. Find Duplicate  
+7. Find Duplicate
+8. Group anagrams
 
 </details>
 
