@@ -11,7 +11,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 | 🗂️ Topic | 📊 Progress | Problems Solved |
 |-----------|------------|----------------|
 | Array | ✅ 45 | See below |
-| String | ✅ 20 | See below |
+| String | ✅ 21 | See below |
 | Linked List | 🚧 0 | Coming Soon |
 | Stack & Queue | 🚧 0 | Coming Soon |
 | Tree | 🚧 0 | Coming Soon |
@@ -23,9 +23,8 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 | Divide and Conquer | ✅ 4 | See below |
 | Kadane’s Algorithm | ✅ 2 | See below |
 | Bit Manipulation | ✅ 1 | See below |
-| Mathematical / Number Theory | ✅ 2 | See below |
+| Mathematical /Iterative / Simulation  | ✅ 6 | See below |
 | Dynamic Programming (DP) | 🚧 0 | Coming Soon |
-| Iterative / Simulation | ✅ 3 | See below |
 | Two-Pointer | ✅ 11 | See below |
 
 
@@ -229,12 +228,16 @@ Coming Soon
 
 
 
-### **Mathematical / Number Theory (2)**
+### **Mathematical / Iterative / Simulation(6)**
 <details>
 <summary>Click to expand</summary>
 
 1. Missing Number  
-2. Palindrome Number  
+2. Palindrome Number
+3. Multiply Strings
+4. Concatenation of Array  
+5. Check if Array is Sorted and Rotated  
+6. FizzBuzz  
 
 </details>
 
@@ -247,16 +250,6 @@ Coming Soon
 </details>
 
 
-
-### **Iterative / Simulation (3)**
-<details>
-<summary>Click to expand</summary>
-
-1. Concatenation of Array  
-2. Check if Array is Sorted and Rotated  
-3. FizzBuzz  
-
-</details>
 
 
 ### **Two-Pointer (11)**
