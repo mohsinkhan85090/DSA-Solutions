@@ -12,10 +12,10 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 |-----------|------------|----------------|
 | Array | ✅ 45 | See below |
 | String | ✅ 21 | See below |
-| Linked List | 🚧 0 | Coming Soon |
-| Stack & Queue | 🚧 0 | Coming Soon |
-| Tree | 🚧 0 | Coming Soon |
-| Graph | 🚧 0 | Coming Soon |
+| Linked List |  0 | Coming Soon |
+| Stack & Queue |  0 | Coming Soon |
+| Tree |  0 | Coming Soon |
+| Graph |  0 | Coming Soon |
 | HashMap / HashSet | ✅ 8 | See below |
 | Prefix Sum / Cumulative Sum | ✅ 7 | See below |
 | Sliding Window | ✅ 3 | See below |
@@ -24,7 +24,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 | Kadane’s Algorithm | ✅ 2 | See below |
 | Bit Manipulation | ✅ 1 | See below |
 | Mathematical /Iterative / Simulation  | ✅ 6 | See below |
-| Dynamic Programming (DP) | 🚧 0 | Coming Soon |
+| Dynamic Programming (DP) |  0 | Coming Soon |
 | Two-Pointer | ✅ 11 | See below |
 
 
