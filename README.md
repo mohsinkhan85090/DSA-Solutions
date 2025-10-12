@@ -12,7 +12,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 |-----------|------------|----------------|
 | Array | ✅ 45 | See below |
 | String | ✅ 21 | See below |
-| Linked List |  0 | Coming Soon |
+| Linked List | ✅ 1   | See below |
 | Stack & Queue |  0 | Coming Soon |
 | Tree |  0 | Coming Soon |
 | Graph |  0 | Coming Soon |
@@ -114,7 +114,9 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 ### **Linked List (0)**
 <details>
 <summary>Click to expand</summary>
-Coming Soon  
+  
+1. reverse a Linked list
+2. 
 </details>
 
 
