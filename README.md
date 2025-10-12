@@ -274,8 +274,7 @@ Coming Soon
 
 ## ⚙️ Tech Stack
 
-- **Language:** Java (Primary), Python (for quick tests)  
-- **Patterns:** Sliding Window, Binary Search, Hashing, Two Pointers, Kadane’s, DP, Greedy, etc.  
+- **Language:** Java (Primary), Python (for quick tests)   
 - **Platform:** LeetCode  
 - **Editor:** VS Code  
 
