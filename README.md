@@ -23,7 +23,6 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 | Divide and Conquer | ✅ 4 | See below |
 | Kadane’s Algorithm | ✅ 2 | See below |
 | Bit Manipulation | ✅ 1 | See below |
-| Mathematical /Iterative / Simulation  | ✅ 6 | See below |
 | Dynamic Programming (DP) |  0 | Coming Soon |
 | Two-Pointer | ✅ 11 | See below |
 
@@ -116,7 +115,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 <summary>Click to expand</summary>
   
 1. reverse a Linked list
-2. 
+   
 </details>
 
 
@@ -230,18 +229,6 @@ Coming Soon
 
 
 
-### **Mathematical / Iterative / Simulation(6)**
-<details>
-<summary>Click to expand</summary>
-
-1. Missing Number  
-2. Palindrome Number
-3. Multiply Strings
-4. Concatenation of Array  
-5. Check if Array is Sorted and Rotated  
-6. FizzBuzz  
-
-</details>
 
 
 
