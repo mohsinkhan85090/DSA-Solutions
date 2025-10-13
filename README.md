@@ -117,6 +117,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 1. reverse a Linked list Iterative appraoch
 2. reverse a Linked list Recursive appraoch
 3. middle of the linkedlist
+4. merge two sorted linkedlist Recursive approach
    
 </details>
 
@@ -259,6 +260,7 @@ Coming Soon
 10. Valid Palindrome  
 11. Trapping Rain Water
 12. middle of the linked list
+13. merge two sorted linkedlist
 
 </details>
 
