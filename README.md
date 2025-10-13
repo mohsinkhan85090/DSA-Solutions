@@ -12,7 +12,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 |-----------|------------|----------------|
 | Array | ✅ 45 | See below |
 | String | ✅ 21 | See below |
-| Linked List | ✅ 2   | See below |
+| Linked List | ✅ 3   | See below |
 | Stack & Queue |  0 | Coming Soon |
 | Tree |  0 | Coming Soon |
 | Graph |  0 | Coming Soon |
@@ -116,6 +116,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
   
 1. reverse a Linked list Iterative appraoch
 2. reverse a Linked list Recursive appraoch
+3. middle of the linkedlist
    
 </details>
 
@@ -256,7 +257,8 @@ Coming Soon
 8. Squares of Sorted Array  
 9. Two Sum II  
 10. Valid Palindrome  
-11. Trapping Rain Water  
+11. Trapping Rain Water
+12. middle of the linked list
 
 </details>
 
