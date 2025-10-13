@@ -118,6 +118,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 2. reverse a Linked list Recursive appraoch
 3. middle of the linkedlist
 4. merge two sorted linkedlist Recursive approach
+5. merge two sorted linkedlist Iterative approach
    
 </details>
 
