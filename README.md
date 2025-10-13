@@ -110,16 +110,19 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 
 </details>
 
-### **Linked List (0)**
+### **Linked List (4)**
 <details>
 <summary>Click to expand</summary>
   
-1. reverse a Linked list Iterative appraoch
-2. reverse a Linked list Recursive appraoch
-3. middle of the linkedlist
-4. merge two sorted linkedlist Recursive approach
-5. merge two sorted linkedlist Iterative approach
-6. Delete a node from a LL
+1a. reverse a Linked list Iterative appraoch
+1b. reverse a Linked list Recursive appraoch
+2. middle of the linkedlist
+3a. merge two sorted linkedlist Recursive approach
+3b. merge two sorted linkedlist Iterative approach
+4. Delete a node from a LL
+5. 
+
+
    
 </details>
 
