@@ -260,7 +260,6 @@ Coming Soon
 10. Valid Palindrome  
 11. Trapping Rain Water
 12. middle of the linked list
-13. merge two sorted linkedlist
 
 </details>
 
