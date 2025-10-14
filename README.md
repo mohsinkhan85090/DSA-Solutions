@@ -12,7 +12,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 |-----------|------------|----------------|
 | Array | ✅ 45 | See below |
 | String | ✅ 21 | See below |
-| Linked List | ✅ 6  | See below |
+| Linked List | ✅ 7  | See below |
 | Stack & Queue |  0 | Coming Soon |
 | Tree |  0 | Coming Soon |
 | Graph |  0 | Coming Soon |
@@ -110,7 +110,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 
 </details>
 
-### **Linked List (6)**
+### **Linked List (7)**
 <details>
 <summary>Click to expand</summary>
   
@@ -122,6 +122,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 4. Delete a node from a LL
 5. Intersection of Two Linked Lists
 6. Delete middle  node of a linkedlist
+7. Remove duplicate from a sorted list
 
 
    
