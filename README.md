@@ -12,7 +12,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 |-----------|------------|----------------|
 | Array | ✅ 45 | See below |
 | String | ✅ 21 | See below |
-| Linked List | ✅ 4   | See below |
+| Linked List | ✅ 5   | See below |
 | Stack & Queue |  0 | Coming Soon |
 | Tree |  0 | Coming Soon |
 | Graph |  0 | Coming Soon |
@@ -110,7 +110,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 
 </details>
 
-### **Linked List (4)**
+### **Linked List (5)**
 <details>
 <summary>Click to expand</summary>
   
@@ -120,7 +120,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 3a. merge two sorted linkedlist Recursive approach
 3b. merge two sorted linkedlist Iterative approach
 4. Delete a node from a LL
-5. 
+5. Intersection of Two Linked Lists
 
 
    
