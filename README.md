@@ -12,7 +12,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 |-----------|------------|----------------|
 | Array | ✅ 45 | See below |
 | String | ✅ 21 | See below |
-| Linked List | ✅ 11 | See below |
+| Linked List | ✅ 12 | See below |
 | Stack & Queue |  0 | Coming Soon |
 | Tree |  0 | Coming Soon |
 | Graph |  0 | Coming Soon |
@@ -110,7 +110,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 
 </details>
 
-### **Linked List (11)**
+### **Linked List (12)**
 <details>
 <summary>Click to expand</summary>
   
@@ -127,7 +127,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 9. Linked list Cycle
 10. palindromic Linked list
 11. Add Two Numbers
-
+12. Remove Duplicates from sorted list II
 
 
    
