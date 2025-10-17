@@ -13,7 +13,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 | Array | ✅ 45 | See below |
 | String | ✅ 21 | See below |
 | Linked List | ✅ 13 | See below |
-| Stack & Queue |  0 | See below |
+| Stack & Queue |  ✅ 1 | See below |
 | Tree |  0 | Coming Soon |
 | Graph |  0 | Coming Soon |
 | HashMap / HashSet | ✅ 8 | See below |
