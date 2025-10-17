@@ -138,7 +138,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 ### **Stack & Queue (0)**
 <details>
 <summary>Click to expand</summary>
-Coming Soon  
+. Clear Digits
 </details>
 
 
