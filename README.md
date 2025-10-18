@@ -13,7 +13,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 | Array | ✅ 45 | See below |
 | String | ✅ 21 | See below |
 | Linked List | ✅ 13 | See below |
-| Stack & Queue |  ✅ 3 | See below |
+| Stack & Queue |  ✅ 4 | See below |
 | Tree |  0 | Coming Soon |
 | Graph |  0 | Coming Soon |
 | HashMap / HashSet | ✅ 8 | See below |
@@ -136,13 +136,13 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 </details>
 
 
-### **Stack & Queue (3)**
+### **Stack & Queue (4)**
 <details>
 <summary>Click to expand</summary>
 1. Clear Digits
 2. Longest Valid Parentheses
 3. Valid Paranthesis
-
+4. Remove Duplicate Letters
 </details>
 
 
