@@ -140,6 +140,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 <summary>Click to expand</summary>
 1. Clear Digits
 2. Longest Valid Parentheses
+3. Valid Paranthesis
 
 </details>
 
