@@ -19,12 +19,13 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 | HashMap / HashSet | ✅ 8 | See below |
 | Prefix Sum / Cumulative Sum | ✅ 7 | See below |
 | Sliding Window | ✅ 3 | See below |
-| Greedy | ✅ 3 | See below |
 | Divide and Conquer | ✅ 4 | See below |
+| Two-Pointer | ✅ 11 | See below |
+| Greedy | ✅ 3 | See below |
 | Kadane’s Algorithm | ✅ 2 | See below |
 | Bit Manipulation | ✅ 1 | See below |
 | Dynamic Programming (DP) |  0 | Coming Soon |
-| Two-Pointer | ✅ 11 | See below |
+
 
 
 
@@ -248,18 +249,6 @@ Coming Soon
 
 
 
-
-
-
-### **Dynamic Programming (0)**
-<details>
-<summary>Click to expand</summary>
-Coming Soon  
-</details>
-
-
-
-
 ### **Two-Pointer (11)**
 <details>
 <summary>Click to expand</summary>
@@ -278,6 +267,18 @@ Coming Soon
 12. middle of the linked list
 
 </details>
+
+
+
+### **Dynamic Programming (0)**
+<details>
+<summary>Click to expand</summary>
+Coming Soon  
+</details>
+
+
+
+
 
 ---
 
