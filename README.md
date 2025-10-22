@@ -13,7 +13,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 | Array | ✅ 45 | See below |
 | String | ✅ 21 | See below |
 | Linked List | ✅ 13 | See below |
-| Stack & Queue |  ✅ 6| See below |
+| Stack & Queue |  ✅ 7| See below |
 | Tree |  0 | Coming Soon |
 | Graph |  0 | Coming Soon |
 | HashMap / HashSet | ✅ 8 | See below |
@@ -136,7 +136,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 </details>
 
 
-### **Stack & Queue (6)**
+### **Stack & Queue (7)**
 <details>
 <summary>Click to expand</summary>
 1. Clear Digits
@@ -145,6 +145,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 4. Remove Duplicate Letters
 5. Implement Queue using Stacks
 6. Implement Stack using Queues
+7. Time Needed to Buy Tickets
 </details>
 
 
