@@ -292,7 +292,7 @@ Coming Soon
 
 ---
 
-## 💬 Contribution
+##  Contribution
 
 This repository is primarily for **personal learning** and growth.  
 However, if you’d like to suggest **cleaner or more optimal solutions**, feel free to:  
