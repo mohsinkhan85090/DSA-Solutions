@@ -303,7 +303,7 @@ However, if you’d like to suggest **cleaner or more optimal solutions**, feel 
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Mohsin Khan**  
 📍 Kanpur, India  
