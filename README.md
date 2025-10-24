@@ -305,7 +305,7 @@ However, if you’d like to suggest **cleaner or more optimal solutions**, feel 
 ##  Author
 
 **Mohsin Khan**  
-📍 Kanpur, India  
+📍  India  
 🔗 [GitHub](https://github.com/mohsinkhan85090) • [LeetCode](https://leetcode.com/u/mohsin85090) • [LinkedIn](https://linkedin.com/in/mohsin-khan-aiml)
 
 ---
