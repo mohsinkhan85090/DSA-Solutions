@@ -14,7 +14,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 | String | ✅ 21 | See below |
 | Linked List | ✅ 13 | See below |
 | Stack & Queue |  ✅ 8 | See below |
-| Tree |  0 | Coming Soon |
+| Tree | ✅ 1 | See below |
 | Graph |  0 | Coming Soon |
 | HashMap / HashSet | ✅ 8 | See below |
 | Prefix Sum / Cumulative Sum | ✅ 7 | See below |
@@ -150,10 +150,10 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 </details>
 
 
-### **Tree (0)**
+### **Tree (1)**
 <details>
 <summary>Click to expand</summary>
-Coming Soon  
+1. Binary Tree Inorder Traversal
 </details>
 
 
