@@ -154,6 +154,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 <details>
 <summary>Click to expand</summary>
 1. Binary Tree Inorder Traversal
+2. Convert Sorted Array to Binary Search Tree
 </details>
 
 
