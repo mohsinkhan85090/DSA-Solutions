@@ -14,12 +14,12 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 | String | ✅ 21 | See below |
 | Linked List | ✅ 13 | See below |
 | Stack & Queue |  ✅ 8 | See below |
-| Tree | ✅ 1 | See below |
+| Tree | ✅ 2 | See below |
 | Graph |  0 | Coming Soon |
 | HashMap / HashSet | ✅ 8 | See below |
 | Prefix Sum / Cumulative Sum | ✅ 7 | See below |
 | Sliding Window | ✅ 3 | See below |
-| Divide and Conquer | ✅ 4 | See below |
+| Divide and Conquer | ✅ 5 | See below |
 | Two-Pointer | ✅ 11 | See below |
 | Greedy | ✅ 3 | See below |
 | Kadane’s Algorithm | ✅ 2 | See below |
@@ -150,7 +150,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 </details>
 
 
-### **Tree (1)**
+### **Tree (2)**
 <details>
 <summary>Click to expand</summary>
 1. Binary Tree Inorder Traversal
@@ -219,7 +219,7 @@ Coming Soon
 
 
 
-### **Divide and Conquer (4)**
+### **Divide and Conquer (5)**
 <details>
 <summary>Click to expand</summary>
 
@@ -227,7 +227,7 @@ Coming Soon
 2. Find First and Last Position  
 3. Search in Rotated Array  
 4. Kth Largest Element  
-
+5. Convert Sorted Array to Binary Search Tree
 </details>
 
 
