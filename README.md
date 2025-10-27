@@ -1,4 +1,4 @@
-# 📈 DSA -  My Data Structures & Algorithms Journey in Java  
+# 📈 DSA -   Data Structures & Algorithms Journey in Java  
 
 Welcome to my personal **Data Structures & Algorithms (DSA)** repository, where I solve and document popular coding problems from platforms like **LeetCode** using **Java** (sometimes Python).  
 Each folder represents a DSA topic and contains **clean, optimized code** with clear logic and standard patterns.  
