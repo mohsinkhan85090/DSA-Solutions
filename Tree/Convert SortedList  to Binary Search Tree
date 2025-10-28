@@ -1,0 +1,79 @@
+// approach 1: convert linkedlist to array 
+class Solution {
+    public TreeNode sortedListToBST(ListNode head) {
+        if (head == null ) 
+        {
+            return null;
+        }
+        List<Integer> arr = new ArrayList<>();
+        while (head != null) {
+            arr.add(head.val);
+            head = head.next;
+        }
+        int n = arr.size();
+        if (n == 0) return null;
+
+        TreeNode root = new TreeNode(0);
+        Stack<TreeNode> nodeStack = new Stack<>();
+        Stack<Integer> leftStack = new Stack<>();
+        Stack<Integer> rightStack = new Stack<>();
+
+        nodeStack.push(root);
+        leftStack.push(0);
+        rightStack.push(n- 1);
+
+        while (!nodeStack.isEmpty()) {
+            TreeNode curr = nodeStack.pop();
+            int left = leftStack.pop();
+            int right = rightStack.pop();
+
+            int mid = (left + right) / 2;
+            curr.val = arr.get(mid);
+
+         
+            if (mid + 1 <= right) {
+                curr.right = new TreeNode(0);
+                nodeStack.push(curr.right);
+                leftStack.push(mid + 1);
+                rightStack.push(right);
+            }
+
+            if (left <= mid - 1) {
+                curr.left = new TreeNode(0);
+                nodeStack.push(curr.left);
+                leftStack.push(left);
+                rightStack.push(mid - 1);
+            }
+        }
+
+        return root; 
+    }
+}
+
+
+// appraoch 2: Recursive 
+class Solution {
+    public TreeNode sortedListToBST(ListNode head) {
+        if(head==null) 
+        {
+            return null;
+        }
+        if(head.next==null)
+        {
+             return new TreeNode(head.val);
+        }
+        ListNode slow=head,fast=head,slow_Prev=null;
+        while(fast!=null && fast.next!=null){
+            slow_Prev = slow;
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        TreeNode root = new TreeNode(slow.val);
+        slow_Prev.next = null;
+        root.left = sortedListToBST(head);
+        root.right = sortedListToBST(slow.next);
+        return root;
+    }
+}
+
+
