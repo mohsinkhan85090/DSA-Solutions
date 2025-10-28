@@ -1,5 +1,5 @@
 class Solution {
-    public List<Integer> preorderTraversal(TreeNode root) {
+    public List<Integer> postorderTraversal(TreeNode root) {
         ArrayList<Integer> ans = new ArrayList<>();
         Stack<TreeNode> s = new Stack<>();
         TreeNode curr = root;
@@ -8,12 +8,12 @@ class Solution {
             while (curr != null) {
                 ans.add(curr.val);
                 s.push(curr);
-                curr = curr.left;
+                curr = curr.right;
             }
             curr = s.pop();
-            
-            curr = curr.right;
+            curr = curr.left;
         }
+        Collections.reverse(ans);
 
         return ans;
     }
