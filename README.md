@@ -13,7 +13,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 | String | ✅ 21 | See below |
 | Linked List | ✅ 13 | See below |
 | Stack & Queue |  ✅ 8 | See below |
-| Tree | ✅ 8 | See below |
+| Tree | ✅ 9 | See below |
 | Graph |  0 | Coming Soon |
 | HashMap / HashSet | ✅ 8 | See below |
 | Prefix Sum / Cumulative Sum | ✅ 7 | See below |
@@ -160,6 +160,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 6. Binary Tree Level Order Traversal
 7. Convert Sorted List to Binary Search Tree
 8. Binary Tree Level Order Traversal II
+9. Path Sum
 </details>
 
 
