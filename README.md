@@ -149,7 +149,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 </details>
 
 
-### **Tree (8)**
+### **Tree (9)**
 <details>
 <summary>Click to expand</summary>
 1. Binary Tree Inorder Traversal
