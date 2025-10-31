@@ -83,7 +83,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 </details>
 
 
-### **String Problems (20)**
+### **String Problems (21)**
 <details>
 <summary>Click to expand</summary>
 
@@ -107,6 +107,7 @@ Each folder represents a DSA topic and contains **clean, optimized code** with c
 18. Find Words Containing Character  
 19. Rotate String
 20. Group Anagrams
+21. Valid word
 
 </details>
 
