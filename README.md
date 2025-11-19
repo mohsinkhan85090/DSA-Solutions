@@ -125,3 +125,9 @@
 </td>
 </tr>
 </table>
+
+
+## ✨ Why This Repo Exists
+To track progress, revise patterns, and build a strong foundation in DSA for FAANG-level interviews.
+
+---
