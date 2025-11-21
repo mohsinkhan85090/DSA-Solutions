@@ -128,7 +128,7 @@ Welcome to my **DSA Journey** — a curated notebook of hand-written, optimized 
 3. Baseball Game 
 4. Clear Digits
 5. Valid Parentheses  
-6. Next Greater Element I  
+6. Next Greater ElementI  
 7. Implement Queue Using Stacks 
 8. Implement Stack Using Queues
 9. Daily Temperatures
