@@ -123,14 +123,20 @@ Welcome to my **DSA Journey** — a curated notebook of hand-written, optimized 
 ---
 
 ## 🧵 Stack & Queue (8)
-1. Clear Digits  
-2. Longest Valid Parentheses  
-3. Valid Parentheses  
-4. Remove Duplicate Letters  
-5. Implement Queue Using Stacks  
-6. Implement Stack Using Queues  
-7. Time Needed to Buy Tickets  
-8. Baseball Game  
+1. Evaluate Reverse Polish Notation
+2. Remove All Adjacent Duplicates In String
+3. Baseball Game 
+4. Clear Digits
+5. Valid Parentheses  
+6. Next Greater Element I  
+7. Implement Queue Using Stacks 
+8. Implement Stack Using Queues
+9. Daily Temperatures
+10. Remove Duplicate Letters
+11. Longest Valid Parentheses 
+12. Largest Rectangle in Histogram  
+13. Time Needed to Buy Tickets  
+   
 
 ---
 
