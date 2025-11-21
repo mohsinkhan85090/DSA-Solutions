@@ -4,11 +4,15 @@ class Solution {
         for(int i=0;i<s.length();i++)
         {
             char c= s.charAt(i);
-            if (Character.isDigit(c)) {
-                if (!st.isEmpty()) {
+            if (Character.isDigit(c))
+             {
+                if (!st.isEmpty()) 
+                {
                     st.pop(); 
                 }
-            } else {
+            }
+            else 
+            {
                 st.push(c); 
             }
         
