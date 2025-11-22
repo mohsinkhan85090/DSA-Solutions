@@ -1,4 +1,3 @@
-# 🧩 All DSA Problems
 # 📘 Data Structures & Algorithms in Java
 
 Welcome to my **DSA Journey** — a curated notebook of hand-written, optimized solutions to the most popular problems on **LeetCode**, solved using **Java**.
