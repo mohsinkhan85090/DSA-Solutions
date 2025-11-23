@@ -11,7 +11,7 @@ Welcome to my **DSA Journey** — a curated notebook of hand-written, optimized 
 | 🧱 Arrays | ![45](https://img.shields.io/badge/Solved-45-blue) |
 | 🔤 Strings | ![21](https://img.shields.io/badge/Solved-21-blue) |
 | 🔗 Linked List | ![13](https://img.shields.io/badge/Solved-13-blue) |
-| 🧵 Stack & Queue | ![13](https://img.shields.io/badge/Solved-8-blue) |
+| 🧵 Stack & Queue | ![13](https://img.shields.io/badge/Solved-13-blue) |
 | 🌳 Trees | ![9](https://img.shields.io/badge/Solved-9-blue) |
 | 🌐 Graphs | ![Soon](https://img.shields.io/badge/Soon-grey) |
 | 🔑 HashMap | ![8](https://img.shields.io/badge/Solved-8-blue) |
