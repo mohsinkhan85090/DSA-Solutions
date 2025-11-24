@@ -134,7 +134,8 @@ Welcome to my **DSA Journey** — a curated notebook of hand-written, optimized 
 10. Remove Duplicate Letters
 11. Longest Valid Parentheses 
 12. Largest Rectangle in Histogram  
-13. Time Needed to Buy Tickets  
+13. Time Needed to Buy Tickets
+14. Make the String Great
    
 
 ---
