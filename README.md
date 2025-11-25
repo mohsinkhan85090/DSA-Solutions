@@ -11,7 +11,7 @@ Welcome to my **DSA Journey** — a curated notebook of hand-written, optimized 
 | 🧱 Arrays | ![45](https://img.shields.io/badge/Solved-45-blue) |
 | 🔤 Strings | ![21](https://img.shields.io/badge/Solved-21-blue) |
 | 🔗 Linked List | ![13](https://img.shields.io/badge/Solved-13-blue) |
-| 🧵 Stack & Queue | ![13](https://img.shields.io/badge/Solved-13-blue) |
+| 🧵 Stack & Queue | ![15](https://img.shields.io/badge/Solved-15-blue) |
 | 🌳 Trees | ![9](https://img.shields.io/badge/Solved-9-blue) |
 | 🌐 Graphs | ![Soon](https://img.shields.io/badge/Soon-grey) |
 | 🔑 HashMap | ![8](https://img.shields.io/badge/Solved-8-blue) |
@@ -121,7 +121,7 @@ Welcome to my **DSA Journey** — a curated notebook of hand-written, optimized 
 
 ---
 
-## 🧵 Stack & Queue (8)
+## 🧵 Stack & Queue (15)
 1. Evaluate Reverse Polish Notation
 2. Remove All Adjacent Duplicates In String
 3. Baseball Game 
@@ -134,8 +134,10 @@ Welcome to my **DSA Journey** — a curated notebook of hand-written, optimized 
 10. Remove Duplicate Letters
 11. Longest Valid Parentheses 
 12. Largest Rectangle in Histogram  
-13. Time Needed to Buy Tickets
-14. Make the String Great
+13. Make the String Great
+14. Time Needed to Buy Tickets
+15. Number of Students Unable to Eat Lunch
+    
    
 
 ---
