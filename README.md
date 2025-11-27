@@ -143,7 +143,7 @@ Welcome to my **DSA Journey** — a curated notebook of hand-written, optimized 
 ---
 
 ## 🌳 Tree (9)
-1. Inorder Traversal  
+1. Same Tree
 2. Preorder Traversal  
 3. Postorder Traversal  
 4. Level Order  
@@ -151,7 +151,9 @@ Welcome to my **DSA Journey** — a curated notebook of hand-written, optimized 
 6. Convert Sorted List to BST  
 7. Same Tree  
 8. Path Sum  
-9. Level Order II  
+9. Level Order II
+10.Inorder Traversal
+   
 
 </td>
 </tr>
