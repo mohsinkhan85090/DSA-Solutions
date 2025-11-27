@@ -12,7 +12,7 @@ Welcome to my **DSA Journey** — a curated notebook of hand-written, optimized 
 | 🔤 Strings | ![21](https://img.shields.io/badge/Solved-21-blue) |
 | 🔗 Linked List | ![13](https://img.shields.io/badge/Solved-13-blue) |
 | 🧵 Stack & Queue | ![15](https://img.shields.io/badge/Solved-15-blue) |
-| 🌳 Trees | ![9](https://img.shields.io/badge/Solved-9-blue) |
+| 🌳 Trees | [9](https://img.shields.io/badge/Solved-9-blue) |
 | 🌐 Graphs | ![Soon](https://img.shields.io/badge/Soon-grey) |
 | 🔑 HashMap | ![8](https://img.shields.io/badge/Solved-8-blue) |
 | ➕ Prefix Sum | ![7](https://img.shields.io/badge/Solved-7-blue) |
@@ -148,11 +148,11 @@ Welcome to my **DSA Journey** — a curated notebook of hand-written, optimized 
 3. Postorder Traversal  
 4. Level Order  
 5. Convert Sorted Array to BST  
-6. Convert Sorted List to BST  
-7. Same Tree  
+6. Convert Sorted List to BST
+7. Inorder Traversal
 8. Path Sum  
 9. Level Order II
-10.Inorder Traversal
+
    
 
 </td>
